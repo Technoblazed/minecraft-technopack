@@ -1,6 +1,0 @@
-Jun 14 20:21:18 mc-server: START: PASS: Started A Minecraft Server
-Jun 14 20:21:18 mc-server: START: PASS: command_start.sh exiting with code: 0
-Jun 14 20:23:04 mc-server: PASS: Downloading command_restart.sh: OK
-Jun 14 20:23:04 mc-server: RESTART: PASS: Downloading command_stop.sh: OK
-Jun 14 20:23:06 mc-server: STOP: ERROR: A Minecraft Server is already stopped
-Jun 14 20:23:07 mc-server: START: INFO: Rotating log files
