@@ -1,0 +1,1157 @@
+[20:24:12] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[20:24:12] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[20:24:12] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker
+[20:24:12] [main/INFO] [FML]: Forge Mod Loader version 7.99.40.1614 for Minecraft 1.7.10 loading
+[20:24:12] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_131, running on Linux:amd64:4.4.0-66-generic, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[20:24:12] [main/WARN] [FML]: The coremod am2.preloader.AM2PreloaderContainer does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:13] [main/INFO] [ArsMagica2]: Core initializing...stand back!  I'm going to try MAGIC!
+[20:24:13] [main/INFO] [FML]: [AppEng] Core Init
+[20:24:13] [main/WARN] [FML]: The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:13] [main/INFO] [STDERR]: [codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:436]: Warning: version of ForgeMultipart, 1.2.0.347 is newer than request 1.2.0.345
+[20:24:13] [main/INFO] [STDERR]: [codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:436]: Warning: version of bspkrsCore, 6.16 is newer than request 6.15
+[20:24:13] [main/WARN] [FML]: The coremod cofh.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:13] [main/INFO] [FML]: Loading tweaker fastcraft.Tweaker from fastcraft-1.23.jar
+[20:24:13] [main/INFO] [FML]: Loading tweaker forestry.shade.javacheck.Java7Checker from forestry_1.7.10-4.2.16.64.jar
+[20:24:13] [main/WARN] [FML]: The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:13] [main/WARN] [FML]: The coremod mrtjp.relocation.asm.RelocationPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:13] [main/WARN] [FML]: The coremod ic2.core.coremod.IC2core does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:13] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:13] [main/WARN] [FML]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:13] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.DepLoader$DepLoadInst:<init>:333]: MicdoodleCore searching for dependencies in mods file: /home/techno/minecraft/1.7.10/SERVER/serverfiles/./mods
+[20:24:13] [main/WARN] [FML]: The coremod mcp.mobius.mobiuscore.asm.CoreDescription does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:13] [main/WARN] [FML]: The coremod mrtjp.core.handler.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:13] [main/WARN] [FML]: The coremod codechicken.nei.asm.NEICorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:13] [main/WARN] [FML]: The coremod openblocks.OpenBlocksCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:13] [main/WARN] [FML]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:13] [main/WARN] [FML]: The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:13] [main/WARN] [FML]: The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:13] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:24:13] [main/INFO] [LaunchWrapper]: Loading tweak class name fastcraft.Tweaker
+[20:24:13] [main/INFO] [LaunchWrapper]: Loading tweak class name forestry.shade.javacheck.Java7Checker
+[20:24:13] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[20:24:13] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:24:13] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:24:13] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:14] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[20:24:14] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:14] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:14] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:14] [main/ERROR] [LaunchWrapper]: A critical problem occurred registering the ASM transformer class am2.preloader.AccessTransformers
+java.lang.IllegalArgumentException: resource AM2_at.cfg not found.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:148) ~[guava-17.0.jar:?]
+	at com.google.common.io.Resources.getResource(Resources.java:229) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.asm.transformers.AccessTransformer.readMapFile(AccessTransformer.java:118) ~[forge-1.7.10-10.13.4.1614-1.7.10-universal.jar:?]
+	at cpw.mods.fml.common.asm.transformers.AccessTransformer.<init>(AccessTransformer.java:101) ~[forge-1.7.10-10.13.4.1614-1.7.10-universal.jar:?]
+	at am2.preloader.AccessTransformers.<init>(AccessTransformers.java:10) ~[AccessTransformers.class:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_131]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_131]
+	at java.lang.Class.newInstance(Class.java:442) ~[?:1.8.0_131]
+	at net.minecraft.launchwrapper.LaunchClassLoader.registerTransformer(LaunchClassLoader.java:88) [launchwrapper-1.12.jar:?]
+	at cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper.injectIntoClassLoader(CoreModManager.java:108) [forge-1.7.10-10.13.4.1614-1.7.10-universal.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_131]
+	at cpw.mods.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43) [forge-1.7.10-10.13.4.1614-1.7.10-universal.jar:?]
+	at cpw.mods.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12) [forge-1.7.10-10.13.4.1614-1.7.10-universal.jar:?]
+[20:24:14] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:14] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:14] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:14] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:15] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:15] [main/INFO] [IC2-core]: Loaded library EJML-core-0.26.jar.
+[20:24:15] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:15] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:15] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:102]: Successfully Registered Transformer
+[20:24:15] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:295]: [Micdoodle8Core]: Patching game...
+[20:24:15] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:295]: [Micdoodle8Core]: Patching game...
+[20:24:15] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:15] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:15] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:15] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:15] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:15] [main/INFO] [LaunchWrapper]: Calling tweak class forestry.shade.javacheck.Java7Checker
+[20:24:15] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:15] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:15] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[20:24:15] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:15] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:15] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:15] [main/INFO] [LaunchWrapper]: Calling tweak class fastcraft.Tweaker
+[20:24:15] [main/INFO] [FastCraft]: FastCraft loaded.
+[20:24:15] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[20:24:15] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[20:24:15] [main/INFO] [MobiusCore]: Current code is OBFUSCATED
+[20:24:15] [main/INFO] [MobiusCore]: [MobiusCore] Found net.minecraft.world.WorldServer [ mt ] with checksum C886BCD50DD675F403ECA0A1C11D15FA
+[20:24:15] [main/INFO] [MobiusCore]: Successful injection in b ()V
+[20:24:15] [main/INFO] [MobiusCore]: Successful injection in b ()V
+[20:24:15] [main/INFO] [ArsMagica2]: Core: Altering definition of net.minecraft.world.World,  (obfuscated)
+[20:24:15] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1989]: Galacticraft successfully injected bytecode into: ahb (1 / 1)
+[20:24:15] [main/INFO] [MobiusCore]: Found cpw.mods.fml.common.FMLCommonHandler with checksum F626A08BBC07AE3F7D88072FDFDAE36E
+[20:24:15] [main/INFO] [MobiusCore]: Successful injection in onPreServerTick ()V
+[20:24:15] [main/INFO] [MobiusCore]: Successful injection in onPostServerTick ()V
+[20:24:15] [main/INFO] [MobiusCore]: Successful injection in onPreWorldTick (Lahb;)V
+[20:24:15] [main/INFO] [MobiusCore]: Successful injection in onPostWorldTick (Lahb;)V
+[20:24:15] [main/INFO] [MobiusCore]: Switching injection mode to FORGE
+[20:24:15] [main/INFO] [MobiusCore]: [MobiusCore] Found net.minecraft.world.World [ ahb ] with checksum C2F0734C35202597294F9762C4F803D3
+[20:24:15] [main/INFO] [MobiusCore]: Found World.updateEntities()...
+[20:24:15] [main/INFO] [MobiusCore]: Successful injection in h ()V
+[20:24:15] [main/INFO] [MobiusCore]: Successful injection in h ()V
+[20:24:15] [main/INFO] [MobiusCore]: Successful injection in h ()V
+[20:24:15] [main/INFO] [MobiusCore]: Successful injection in h ()V
+[20:24:15] [main/INFO] [MobiusCore]: Found World.<init> (Lazc;Ljava/lang/String;Lahj;Laqo;Lqi;)V
+[20:24:15] [main/INFO] [MobiusCore]: Successful injection in <init> (Lazc;Ljava/lang/String;Lahj;Laqo;Lqi;)V
+[20:24:15] [main/INFO] [MobiusCore]: Successful injection in <init> (Lazc;Ljava/lang/String;Lahj;Laqo;Lqi;)V
+[20:24:16] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1989]: Galacticraft successfully injected bytecode into: oi (4 / 4)
+[20:24:16] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1989]: Galacticraft successfully injected bytecode into: sv (1 / 1)
+[20:24:16] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[20:24:16] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1989]: Galacticraft successfully injected bytecode into: xk (1 / 1)
+[20:24:16] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1989]: Galacticraft successfully injected bytecode into: zc (1 / 1)
+[20:24:17] [main/INFO] [EnderCore]: Transforming Class [net.minecraft.entity.projectile.EntityArrow], Method [func_70071_h_]
+[20:24:17] [main/INFO] [EnderCore]: Transforming net.minecraft.entity.projectile.EntityArrow Finished.
+[20:24:17] [main/INFO] [EnderCore]: Transforming Class [net.minecraft.item.ItemStack], Method [func_77953_t]
+[20:24:17] [main/INFO] [EnderCore]: Transforming net.minecraft.item.ItemStack Finished.
+[20:24:17] [main/INFO] [FML]: InvTweaks: net.minecraft.inventory.Container
+[20:24:17] [main/INFO] [FML]: InvTweaks: net.minecraft.inventory.ContainerFurnace
+[20:24:17] [main/INFO] [EnderCore]: Transforming Class [net.minecraft.inventory.ContainerFurnace], Method [func_82846_b]
+[20:24:17] [main/INFO] [EnderCore]: Transforming net.minecraft.inventory.ContainerFurnace Finished.
+[20:24:17] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[20:24:17] [Server thread/INFO] [MinecraftForge]: Attempting early MinecraftForge initialization
+[20:24:17] [Server thread/INFO] [FML]: MinecraftForge v10.13.4.1614 Initialized
+[20:24:18] [Server thread/INFO] [FML]: Replaced 183 ore recipies
+[20:24:18] [Server thread/INFO] [MinecraftForge]: Completed early MinecraftForge initialization
+[20:24:18] [Server thread/INFO] [ArsMagica2]: Core initializing...stand back!  I'm going to try MAGIC!
+[20:24:18] [Server thread/INFO] [FML]: [AppEng] Core Init
+[20:24:18] [Server thread/INFO] [FML]: Found 0 mods from the command line. Injecting into mod discoverer
+[20:24:18] [Server thread/INFO] [FML]: Searching /home/techno/minecraft/1.7.10/SERVER/serverfiles/mods for mods
+[20:24:18] [Server thread/INFO] [FML]: Also searching /home/techno/minecraft/1.7.10/SERVER/serverfiles/mods/1.7.10 for mods
+[20:24:19] [Server thread/WARN] [craftingtweaks]: Mod craftingtweaks is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.82
+[20:24:20] [Server thread/INFO] [debug]: Mod debug is missing the required element 'name'. Substituting debug
+[20:24:20] [Server thread/WARN] [debug]: Mod debug is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[20:24:20] [Server thread/WARN] [ExtraUtilities]: Mod ExtraUtilities is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.12
+[20:24:21] [Server thread/WARN] [ProjRed|Core]: Mod ProjRed|Core is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.7.0pre12.95
+[20:24:21] [Server thread/WARN] [ProjRed|Compatibility]: Mod ProjRed|Compatibility is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.7.0pre12.95
+[20:24:21] [Server thread/WARN] [ProjRed|Fabrication]: Mod ProjRed|Fabrication is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.7.0pre12.95
+[20:24:21] [Server thread/WARN] [ProjRed|Integration]: Mod ProjRed|Integration is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.7.0pre12.95
+[20:24:21] [Server thread/WARN] [ProjRed|Transmission]: Mod ProjRed|Transmission is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.7.0pre12.95
+[20:24:21] [Server thread/WARN] [ProjRed|Illumination]: Mod ProjRed|Illumination is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.7.0pre12.95
+[20:24:22] [Server thread/WARN] [ProjRed|Expansion]: Mod ProjRed|Expansion is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.7.0pre12.95
+[20:24:22] [Server thread/WARN] [ProjRed|Transportation]: Mod ProjRed|Transportation is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.7.0pre12.95
+[20:24:22] [Server thread/WARN] [ProjRed|Exploration]: Mod ProjRed|Exploration is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.7.0pre12.95
+[20:24:22] [Server thread/WARN] [WR-CBE|Core]: Mod WR-CBE|Core is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.4.1.11
+[20:24:22] [Server thread/WARN] [WR-CBE|Addons]: Mod WR-CBE|Addons is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.4.1.11
+[20:24:22] [Server thread/WARN] [WR-CBE|Logic]: Mod WR-CBE|Logic is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.4.1.11
+[20:24:22] [Server thread/WARN] [ForgeMicroblock]: Mod ForgeMicroblock is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.347
+[20:24:22] [Server thread/WARN] [ForgeMultipart]: Mod ForgeMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.347
+[20:24:22] [Server thread/WARN] [McMultipart]: Mod McMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.347
+[20:24:22] [Server thread/INFO] [MCFrames]: Mod MCFrames is missing the required element 'name'. Substituting MCFrames
+[20:24:22] [Server thread/WARN] [MCFrames]: Mod MCFrames is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[20:24:22] [Server thread/WARN] [ForgeRelocation]: Mod ForgeRelocation is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.0.1.4
+[20:24:23] [Server thread/WARN] [RelocationFMP]: Mod RelocationFMP is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.0.1.2
+[20:24:23] [Server thread/WARN] [MrTJPCoreMod]: Mod MrTJPCoreMod is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.1.0.33
+[20:24:23] [Server thread/INFO] [FML]: Forge Mod Loader has identified 99 mods to load
+[20:24:23] [Server thread/INFO] [FML]: Found mod(s) [ExtraUtilities] containing declared API package baubles.api (owned by Baubles) without associated API reference
+[20:24:23] [Server thread/INFO] [FML]: Found mod(s) [CarpentersBlocks] containing declared API package com.cricketcraft.chisel.api (owned by chisel) without associated API reference
+[20:24:23] [Server thread/INFO] [FML]: Found mod(s) [powersuits] containing declared API package ic2.api.item (owned by IC2) without associated API reference
+[20:24:23] [Server thread/INFO] [FML]: FML has found a non-mod file CodeChickenLib-1.7.10-1.1.3.138-universal.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[20:24:23] [Server thread/INFO] [FML]: Attempting connection with missing mods [mcp, FML, Forge, AM2-Preloader, appliedenergistics2-core, CodeChickenCore, Micdoodlecore, MobiusCore, NotEnoughItems, OpenModsCore, <CoFH ASM>, FastCraft, arsmagica2, CrystalWing, StartingInventory, AgriCraft, AnimationAPI, appliedenergistics2, Backpack, BuildCraft|Core, BuildCraft|Transport, BuildCraft|Factory, BuildCraft|Silicon, BuildCraft|Robotics, BuildCraft|Energy, BuildCraft|Builders, BuildCraft|Compat, CarpentersBlocks, chisel, CoFHCore, craftingtweaks, creativecore, DeathCounter, debug, denseores, endercore, ExtraUtilities, Forestry, GalacticraftMars, GalacticraftCore, IC2NuclearControl, IguanaTweaksTConstruct, IC2, ingameconfigmanager, inventorytweaks, IronChest, MagicBees, Mantle, minechem, powersuits, MorePlanet, Morpheus, NEIAddons|Developer, NEIAddons|AppEng, NEIAddons|Botany, NEIAddons|Forestry, NEIAddons|CraftingTables, NEIAddons, NEIAddons|ExNihilo, neiintegration, NetherOres, numina, OpenBlocks, OpenMods, MapWriter, Opis, ProjRed|Core, ProjRed|Compatibility, ProjRed|Fabrication, ProjRed|Integration, ProjRed|Transmission, ProjRed|Illumination, ProjRed|Expansion, ProjRed|Transportation, ProjRed|Exploration, Railcraft, simplyjetpacks, StevesCarts, StorageDrawers, TConstruct, ThermalDynamics, ThermalExpansion, ThermalFoundation, TiCTooltips, TMechworks, Waila, wailaplugins, warpbook, WR-CBE|Core, WR-CBE|Addons, WR-CBE|Logic, bspkrsCore, ForgeMicroblock, ForgeMultipart, McMultipart, MCFrames, ForgeRelocation, RelocationFMP, MrTJPCoreMod] at CLIENT
+[20:24:23] [Server thread/INFO] [FML]: Attempting connection with missing mods [mcp, FML, Forge, AM2-Preloader, appliedenergistics2-core, CodeChickenCore, Micdoodlecore, MobiusCore, NotEnoughItems, OpenModsCore, <CoFH ASM>, FastCraft, arsmagica2, CrystalWing, StartingInventory, AgriCraft, AnimationAPI, appliedenergistics2, Backpack, BuildCraft|Core, BuildCraft|Transport, BuildCraft|Factory, BuildCraft|Silicon, BuildCraft|Robotics, BuildCraft|Energy, BuildCraft|Builders, BuildCraft|Compat, CarpentersBlocks, chisel, CoFHCore, craftingtweaks, creativecore, DeathCounter, debug, denseores, endercore, ExtraUtilities, Forestry, GalacticraftMars, GalacticraftCore, IC2NuclearControl, IguanaTweaksTConstruct, IC2, ingameconfigmanager, inventorytweaks, IronChest, MagicBees, Mantle, minechem, powersuits, MorePlanet, Morpheus, NEIAddons|Developer, NEIAddons|AppEng, NEIAddons|Botany, NEIAddons|Forestry, NEIAddons|CraftingTables, NEIAddons, NEIAddons|ExNihilo, neiintegration, NetherOres, numina, OpenBlocks, OpenMods, MapWriter, Opis, ProjRed|Core, ProjRed|Compatibility, ProjRed|Fabrication, ProjRed|Integration, ProjRed|Transmission, ProjRed|Illumination, ProjRed|Expansion, ProjRed|Transportation, ProjRed|Exploration, Railcraft, simplyjetpacks, StevesCarts, StorageDrawers, TConstruct, ThermalDynamics, ThermalExpansion, ThermalFoundation, TiCTooltips, TMechworks, Waila, wailaplugins, warpbook, WR-CBE|Core, WR-CBE|Addons, WR-CBE|Logic, bspkrsCore, ForgeMicroblock, ForgeMultipart, McMultipart, MCFrames, ForgeRelocation, RelocationFMP, MrTJPCoreMod] at SERVER
+[20:24:24] [Server thread/INFO] [MobiusCore]: Found cpw.mods.fml.common.network.FMLOutboundHandler with checksum CB55471D614BD5AF06AEA87A77A3014F
+[20:24:24] [Server thread/INFO] [MobiusCore]: Successful injection in write (Lio/netty/channel/ChannelHandlerContext;Ljava/lang/Object;Lio/netty/channel/ChannelPromise;)V
+[20:24:24] [Server thread/ERROR] [Backpack]: The mod Backpack is expecting signature @FINGERPRINT@ for source backpack-2.0.0-1.7.x.jar, however there is no signature matching that description
+[20:24:25] [Server thread/INFO] [MobiusCore]: Found cpw.mods.fml.common.eventhandler.ASMEventHandler with checksum 1C68592318817E7EE853EC874A5ACBF4
+[20:24:25] [Server thread/INFO] [MobiusCore]: Successful injection in <init> (Ljava/lang/Object;Ljava/lang/reflect/Method;Lcpw/mods/fml/common/ModContainer;)V
+[20:24:25] [Server thread/INFO] [MobiusCore]: Successful injection in invoke (Lcpw/mods/fml/common/eventhandler/Event;)V
+[20:24:25] [Server thread/INFO] [MobiusCore]: Successful injection in invoke (Lcpw/mods/fml/common/eventhandler/Event;)V
+[20:24:26] [Server thread/INFO] [TConstruct]: Preparing to take over the world
+[20:24:26] [Server thread/INFO] [ArsMagica2]: Core: Altering definition of net.minecraft.network.play.server.S1DPacketEntityEffect,  (obfuscated)
+[20:24:26] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[20:24:27] [Server thread/INFO] [FML]: Found 437 ObjectHolder annotations
+[20:24:27] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[20:24:27] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[20:24:27] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[20:24:27] [Server thread/INFO] [FastCraft]: FastCraft 1.23 loaded.
+[20:24:27] [Thread-6/INFO] [FastCraft]: You are using the latest suitable version.
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Extending potions array
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Injecting potions starting from index 32
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Core: Altering definition of net.minecraft.potion.PotionEffect,  (obfuscated)
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Water Breathing is ID 24
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Flight is ID 25
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Feather Fall is ID 26
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Haste is ID 27
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion True Sight is ID 28
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Regeneration is ID 29
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Magic Shield is ID 30
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Charmed is ID 31
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Frost Slow is ID 32
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Chrono Anchor is ID 33
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Mana Regen is ID 34
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Entangled is ID 35
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Watery Grave is ID 36
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Spell Reflect is ID 37
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Silence is ID 38
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Swift Swim is ID 39
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Agility is ID 40
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Leap is ID 41
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Mana Boost is ID 42
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Astral Distortion is ID 43
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Mana Shield is ID 44
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Fury is ID 45
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Scramble Synapses is ID 46
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Illuminated is ID 47
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Greater Mana Restoration is ID 48
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Epic Mana Restoration is ID 49
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Legendary Mana Restoration is ID 50
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Gravity Well is ID 51
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Levitation is ID 52
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Clarity is ID 53
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Shrunken is ID 54
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Potion Burnout Redux is ID 55
+[20:24:27] [Server thread/INFO] [EnderCore]: Transforming Class [net.minecraft.enchantment.EnchantmentHelper], Method [func_77513_b]
+[20:24:27] [Server thread/INFO] [EnderCore]: Transforming net.minecraft.enchantment.EnchantmentHelper Finished.
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Attempting to set enchantment magic_resist to ID 100 (configured currently as 100)
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Successfully registered enchanment!
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Attempting to set enchantment soulbound to ID 101 (configured currently as 101)
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Successfully registered enchanment!
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: dr_phy
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: dr_drn
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: dr_fall
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: dr_exp
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: dr_fire
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: dr_frst
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: dr_mage
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: dr_litn
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: mn_reg
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: bn_red
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: soulbnd
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: fl_lure
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: mg_xp
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: pp_ore
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: mg_gog
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: tc_nrv
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: step_up
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: run_spd
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: dispel
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: fallprot
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: fireprot
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: freedom
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: healing
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: hungerup
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: highjump
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: lifesave
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: lightstep
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: minespd
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: recoil
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: swimspd
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: wtrbrth
+[20:24:27] [Server thread/INFO] [ArsMagica2]: Registered imbuement: wtrwalk
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:crops
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:seedAnalyzer
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:waterPad
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:waterPadFull
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:waterTank
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:waterChannel
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:waterChannelFull
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:channelValve
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:sprinkler
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:seedStorage
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:fence
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:fenceGate
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:grate
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropPotato
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedPotato
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropCarrot
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedCarrot
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropSugarcane
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedSugarcane
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropDandelion
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedDandelion
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropPoppy
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedPoppy
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropOrchid
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedOrchid
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropAllium
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedAllium
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropTulipRed
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedTulipRed
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropTulipOrange
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedTulipOrange
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropTulipWhite
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedTulipWhite
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropTulipPink
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedTulipPink
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropDaisy
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedDaisy
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropCactus
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedCactus
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropShroomRed
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedShroomRed
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropShroomBrown
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedShroomBrown
+[20:24:27] [Server thread/INFO] [AgriCraft]: Crops registered
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering item.agricraft:cropsItem
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering item.agricraft:journal
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering item.agricraft:magnifyingGlass
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering item.agricraft:debugger
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering item.agricraft:trowel
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering item.agricraft:handRake
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering item.agricraft:clipper
+[20:24:27] [Server thread/INFO] [AgriCraft]: registering item.agricraft:clipping
+[20:24:27] [Server thread/INFO] [AE2:S]: Pre Initialization ( started )
+[20:24:27] [Server thread/INFO] [AE2-CORE]: func_145841_b(Lnet/minecraft/nbt/NBTTagCompound;)V - Transformed
+[20:24:27] [Server thread/INFO] [AE2-CORE]: func_145839_a(Lnet/minecraft/nbt/NBTTagCompound;)V - Transformed
+[20:24:27] [Server thread/INFO] [AE2-CORE]: Allowing Interface ic2.api.energy.tile.IEnergySink from appeng/tile/powersink/IC2 because IC2 integration is enabled.
+[20:24:27] [Server thread/INFO] [AE2-CORE]: Removing Interface Reika.RotaryCraft.API.Power.AdvancedShaftPowerReceiver from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
+[20:24:27] [Server thread/INFO] [AE2-CORE]: Removing Interface Reika.RotaryCraft.API.Interfaces.Transducerable from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
+[20:24:27] [Server thread/INFO] [AE2-CORE]: Removing Method Tick_RotaryCraft from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
+[20:24:27] [Server thread/INFO] [AE2-CORE]: Updated appeng/tile/powersink/RotaryCraft
+[20:24:27] [Server thread/INFO] [AE2-CORE]: Allowing Interface cofh.api.energy.IEnergyReceiver from appeng/tile/powersink/RedstoneFlux because RF integration is enabled.
+[20:24:27] [Server thread/INFO] [AE2-CORE]: Removing Interface mekanism.api.energy.IStrictEnergyAcceptor from appeng/tile/powersink/MekJoules because Mekanism integration is disabled.
+[20:24:27] [Server thread/INFO] [AE2-CORE]: Updated appeng/tile/powersink/MekJoules
+[20:24:27] [Server thread/INFO] [AE2-CORE]: Removing Interface powercrystals.minefactoryreloaded.api.rednet.connectivity.IRedNetConnection from appeng/block/networking/BlockCableBus because MFR integration is disabled.
+[20:24:27] [Server thread/INFO] [AE2-CORE]: Removing Method getConnectionType from appeng/block/networking/BlockCableBus because MFR integration is disabled.
+[20:24:27] [Server thread/INFO] [AE2-CORE]: Updated appeng/block/networking/BlockCableBus
+[20:24:28] [Server thread/INFO] [AE2-CORE]: Allowing Interface buildcraft.api.tools.IToolWrench from appeng/items/tools/quartz/ToolQuartzWrench because BC integration is enabled.
+[20:24:28] [Server thread/INFO] [AE2-CORE]: Allowing Interface ic2.api.item.ISpecialElectricItem from appeng/items/tools/powered/powersink/IC2 because IC2 integration is enabled.
+[20:24:28] [Server thread/INFO] [AE2-CORE]: Allowing Interface ic2.api.item.IElectricItemManager from appeng/items/tools/powered/powersink/IC2 because IC2 integration is enabled.
+[20:24:28] [Server thread/INFO] [AE2-CORE]: Allowing Method getManager from appeng/items/tools/powered/powersink/IC2 because IC2 integration is enabled.
+[20:24:28] [Server thread/INFO] [AE2-CORE]: Allowing Interface cofh.api.energy.IEnergyContainerItem from appeng/items/tools/powered/powersink/RedstoneFlux because RFItem integration is enabled.
+[20:24:28] [Server thread/INFO] [AE2-CORE]: Allowing Interface buildcraft.api.tools.IToolWrench from appeng/items/tools/ToolNetworkTool because BC integration is enabled.
+[20:24:28] [Server thread/INFO] [AE2-CORE]: Allowing Interface buildcraft.api.transport.IPipeConnection from appeng/parts/misc/PartStorageBus because BC integration is enabled.
+[20:24:28] [Server thread/INFO] [AE2-CORE]: Allowing Method overridePipeConnection from appeng/parts/misc/PartStorageBus because BC integration is enabled.
+[20:24:28] [Server thread/INFO] [AE2-CORE]: Allowing Interface buildcraft.api.transport.IPipeConnection from appeng/parts/p2p/PartP2PItems because BC integration is enabled.
+[20:24:28] [Server thread/INFO] [AE2-CORE]: Allowing Method overridePipeConnection from appeng/parts/p2p/PartP2PItems because BC integration is enabled.
+[20:24:28] [Server thread/INFO] [AE2-CORE]: Allowing Interface ic2.api.energy.tile.IEnergySink from appeng/parts/p2p/PartP2PIC2Power because IC2 integration is enabled.
+[20:24:28] [Server thread/INFO] [AE2-CORE]: Allowing Interface ic2.api.energy.tile.IEnergySource from appeng/parts/p2p/PartP2PIC2Power because IC2 integration is enabled.
+[20:24:28] [Server thread/INFO] [AE2-CORE]: Allowing Interface cofh.api.energy.IEnergyReceiver from appeng/parts/p2p/PartP2PRFPower because RF integration is enabled.
+[20:24:28] [Server thread/INFO] [AE2:S]: Starting AE2 VersionChecker
+[20:24:28] [Server thread/INFO] [AE2:S]: Pre Initialization ( ended after 493ms )
+Exception in thread "AE2 VersionChecker" [20:24:28] [AE2 VersionChecker/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: java.lang.IllegalArgumentException: Raw channel stable did not contain any of the pre-programmed types.
+[20:24:28] [AE2 VersionChecker/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at appeng.services.version.VersionParser.parseChannel(VersionParser.java:117)
+[20:24:28] [AE2 VersionChecker/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at appeng.services.version.VersionParser.parseVersion(VersionParser.java:72)
+[20:24:28] [AE2 VersionChecker/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at appeng.services.version.VersionParser.parse(VersionParser.java:34)
+[20:24:28] [AE2 VersionChecker/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at appeng.services.version.ModVersionFetcher.get(ModVersionFetcher.java:34)
+[20:24:28] [AE2 VersionChecker/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at appeng.services.VersionChecker.processInterval(VersionChecker.java:106)
+[20:24:28] [AE2 VersionChecker/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at appeng.services.VersionChecker.run(VersionChecker.java:86)
+[20:24:28] [AE2 VersionChecker/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.Thread.run(Thread.java:748)
+[20:24:28] [Server thread/INFO] [CoFHWorld]: Registering Default Templates.
+[20:24:28] [Server thread/INFO] [CoFHWorld]: Registering default generators
+[20:24:28] [Server thread/INFO] [CoFHWorld]: Complete
+[20:24:28] [Server thread/INFO] [BuildCraft]: Starting BuildCraft 7.1.22
+[20:24:28] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2015
+[20:24:28] [Server thread/INFO] [BuildCraft]: http://www.mod-buildcraft.com
+[20:24:28] [Thread-8/INFO] [BuildCraft]: Beginning version check
+[20:24:29] [Server thread/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1989]: Galacticraft successfully injected bytecode into: ms (1 / 1)
+[20:24:30] [Server thread/INFO] [Forestry]: Module BiomesOPlenty Plugin failed to load: BiomesOPlenty not found
+[20:24:30] [Server thread/INFO] [Forestry]: Module EnderIO Plugin failed to load: EnderIO not found
+[20:24:30] [Server thread/INFO] [Forestry]: Module Erebus Plugin failed to load: Erebus not found
+[20:24:30] [Server thread/INFO] [Forestry]: Module Growthcraft Plugin failed to load: GrowthCraft not found
+[20:24:30] [Server thread/INFO] [Forestry]: Module HarvestCraft Plugin failed to load: HarvestCraft not found
+[20:24:30] [Server thread/INFO] [Forestry]: Module ImmersiveEngineering Plugin failed to load: Immersive Engineering not found
+[20:24:30] [Server thread/INFO] [Forestry]: Module MagicalCrops Plugin failed to load: Magical Crops not found
+[20:24:30] [Server thread/INFO] [Forestry]: Module MineFactoryReloaded Plugin failed to load: MineFactoryReloaded not found
+[20:24:30] [Server thread/INFO] [Forestry]: Module Natura Plugin failed to load: Natura not found
+[20:24:30] [Server thread/INFO] [Forestry]: Module PlantMegaPack Plugin failed to load: Plant Mega Pack not found
+[20:24:30] [Server thread/INFO] [Forestry]: Module RotaryCraft Plugin failed to load: RotaryCraft not found
+[20:24:30] [Server thread/INFO] [Forestry]: Module Witchery Plugin failed to load: Witchery not found
+[20:24:31] [Server thread/INFO] [STDOUT]: [ic2.api.item.IC2Items:getItem:36]: IC2 API: Call getItem failed for compressedPlantBall
+[20:24:31] [Server thread/INFO] [STDOUT]: [ic2.api.item.IC2Items:getItem:36]: IC2 API: Call getItem failed for matter
+[20:24:31] [Server thread/INFO] [ThermalFoundation]: Thermal Foundation: Loading Plugins...
+[20:24:31] [Server thread/INFO] [ThermalFoundation]: Thermal Foundation: Finished Loading Plugins.
+[20:24:31] [Server thread/INFO] [ThermalExpansion]: ThermalExpansion: Loading Plugins...
+[20:24:31] [Server thread/INFO] [ThermalExpansion]: Thermal Expansion: Finished Loading Plugins.
+[20:24:32] [Server thread/INFO] [Railcraft]: Module disabled: ModuleThaumcraft, Thaumcraft not detected
+[20:24:32] [Server thread/WARN] [FML]: A mod has attempted to assign Block mods.railcraft.common.fluids.BlockRailcraftFluidFinite@66e3d12a to the Fluid 'steam' but this Fluid has already been linked to the Block cofh.thermalfoundation.fluid.BlockFluidSteam@2ae6e7c9. You may have duplicate Fluid Blocks as a result. It *may* be possible to configure your mods to avoid this.
+[20:24:33] [Server thread/INFO] [Chisel 2]: Starting pre-init...
+[20:24:33] [Server thread/INFO] [Chisel 2]: Loading blocks...
+[20:24:33] [Server thread/INFO] [Chisel 2]: Skipping feature amber as its required mod Thaumcraft was missing.
+[20:24:33] [Server thread/INFO] [Chisel 2]: Skipping feature arcane as its required mod Thaumcraft was missing.
+[20:24:33] [Server thread/INFO] [Chisel 2]: Skipping feature bloodRune as its required mod AWWayofTime was missing.
+[20:24:33] [Server thread/INFO] [Chisel 2]: Skipping feature bloodBlock as its required mod AWWayofTime was missing.
+[20:24:33] [Server thread/INFO] [Chisel 2]: Skipping feature tallow as its required mod Thaumcraft was missing.
+[20:24:33] [Server thread/INFO] [Chisel 2]: Skipping feature twilightForest as its required mod TwilightForest was missing.
+[20:24:33] [Server thread/INFO] [Chisel 2]: Skipping feature tfMazestone as its parent feature twilightForest was disabled.
+[20:24:33] [Server thread/INFO] [Chisel 2]: Skipping feature tfTowerstone as its parent feature twilightForest was disabled.
+[20:24:33] [Server thread/INFO] [Chisel 2]: Skipping feature tfUnderBrick as its parent feature twilightForest was disabled.
+[20:24:33] [Server thread/INFO] [Chisel 2]: Skipping feature thaumium as its required mod Thaumcraft was missing.
+[20:24:33] [Server thread/INFO] [Chisel 2]: 96 Feature's blocks loaded.
+[20:24:33] [Server thread/INFO] [Chisel 2]: Loading Tile Entities...
+[20:24:33] [Server thread/INFO] [Chisel 2]: Tile Entities loaded.
+[20:24:33] [Server thread/INFO] [Chisel 2]: Loading items...
+[20:24:33] [Server thread/INFO] [Chisel 2]: Skipping feature amber as its required mod Thaumcraft was missing.
+[20:24:33] [Server thread/INFO] [Chisel 2]: Skipping feature arcane as its required mod Thaumcraft was missing.
+[20:24:33] [Server thread/INFO] [Chisel 2]: Skipping feature bloodRune as its required mod AWWayofTime was missing.
+[20:24:33] [Server thread/INFO] [Chisel 2]: Skipping feature bloodBlock as its required mod AWWayofTime was missing.
+[20:24:33] [Server thread/INFO] [Chisel 2]: Skipping feature tallow as its required mod Thaumcraft was missing.
+[20:24:33] [Server thread/INFO] [Chisel 2]: Skipping feature twilightForest as its required mod TwilightForest was missing.
+[20:24:33] [Server thread/INFO] [Chisel 2]: Skipping feature tfMazestone as its parent feature twilightForest was disabled.
+[20:24:33] [Server thread/INFO] [Chisel 2]: Skipping feature tfTowerstone as its parent feature twilightForest was disabled.
+[20:24:33] [Server thread/INFO] [Chisel 2]: Skipping feature tfUnderBrick as its parent feature twilightForest was disabled.
+[20:24:33] [Server thread/INFO] [Chisel 2]: Skipping feature thaumium as its required mod Thaumcraft was missing.
+[20:24:33] [Server thread/INFO] [Chisel 2]: 96 Feature's items loaded.
+[20:24:33] [Server thread/INFO] [Chisel 2]: Pre-init finished.
+[20:24:33] [Server thread/INFO] [CarpentersBlocks]: Designs found: Bed(6), Chisel(9), FlowerPot(18), Tile(13)
+[20:24:33] [Server thread/INFO] [extrautils]: Hello World
+[20:24:34] [Server thread/INFO] [Galacticraft]: Galacticraft oil is not default, issues may occur.
+[20:24:34] [Server thread/INFO] [Galacticraft]: Galacticraft fuel is not default, issues may occur.
+[20:24:35] [Server thread/INFO] [Mantle]: Mantle (1.7.10-0.3.2.jenkins191) -- Preparing for launch.
+[20:24:35] [Server thread/INFO] [Mantle]: Entering preinitialization phase.
+[20:24:35] [Server thread/INFO] [Mantle]: Loading configuration from disk.
+[20:24:35] [Server thread/INFO] [Mantle]: Configuration load completed.
+[20:24:35] [Server thread/INFO] [PulseManager-TConstruct]: Skipping Pulse Tinkers Thaumcraft Compatibility; missing dependency: Thaumcraft
+[20:24:35] [Server thread/INFO] [PulseManager-TConstruct]: Skipping Pulse Tinkers Mystcraft Compatibility; missing dependency: Mystcraft
+[20:24:35] [Server thread/INFO] [PulseManager-TConstruct]: Skipping Pulse Tinkers MFR Compatibility; missing dependency: MineFactoryReloaded
+[20:24:35] [Server thread/INFO] [PulseManager-TConstruct]: Skipping Pulse Tinkers' Underground Biomes Compatiblity; missing dependency: UndergroundBiomes
+[20:24:35] [Server thread/INFO] [PulseManager-TConstruct]: Skipping Pulse Tinkers RF-Tools Compatibility; missing dependency: rftools
+[20:24:35] [Server thread/INFO] [TConstruct]: Gear module active. Adding gear cast.
+[20:24:35] [Server thread/INFO] [MagicBees]: Preinit started
+[20:24:35] [Server thread/INFO] [MagicBees]: Found nugget of type IRON
+[20:24:35] [Server thread/INFO] [MagicBees]: Found nugget of type COPPER
+[20:24:35] [Server thread/INFO] [MagicBees]: Found nugget of type TIN
+[20:24:35] [Server thread/INFO] [MagicBees]: Found nugget of type SILVER
+[20:24:35] [Server thread/INFO] [MagicBees]: Found nugget of type LEAD
+[20:24:35] [Server thread/INFO] [MagicBees]: Found nugget of type DIAMOND
+[20:24:35] [Server thread/INFO] [MagicBees]: Disabled nugget DIAMOND
+[20:24:35] [Server thread/INFO] [MagicBees]: Found nugget of type EMERALD
+[20:24:35] [Server thread/INFO] [MagicBees]: Disabled nugget EMERALD
+[20:24:35] [Server thread/INFO] [MagicBees]: Found nugget of type APATITE
+[20:24:35] [Server thread/INFO] [MagicBees]: Disabled nugget APATITE
+[20:24:35] [Server thread/INFO] [MagicBees]: Preinit completed
+[20:24:36] [Server thread/INFO] [Morpheus]: Loading configuration
+[20:24:36] [Server thread/INFO] [NEIAddons|Developer]: Wrong side: SERVER, Developer Tools Addon not loading
+[20:24:36] [Server thread/INFO] [NEIAddons|AppEng]: Version check success: appliedenergistics2 required / rv2-stable-10 detected
+[20:24:36] [Server thread/INFO] [NEIAddons|Botany]: Wrong side: SERVER, Botany Addon not loading
+[20:24:36] [Server thread/INFO] [NEIAddons|Forestry]: Version check success: Forestry@[4.0.8.36,) required / 4.2.16.64 detected
+[20:24:36] [Server thread/INFO] [NEIAddons|CraftingTables]: Wrong side: SERVER, Crafting Tables Addon not loading
+[20:24:36] [Server thread/INFO] [NEIAddons|ExNihilo]: Wrong side: SERVER, Ex Nihilo Addon not loading
+[20:24:37] [Server thread/INFO] [FML]: InvTweaks: net.minecraft.inventory.ContainerPlayer
+[20:24:37] [Server thread/WARN] [ProjRed|Core]: Failed to load PR Plugin: Treecapitator: gem axe compat
+[20:24:37] [Server thread/WARN] [ProjRed|Core]: Failed to load PR Plugin: ComputerCraft: bundled cable connections
+[20:24:37] [Server thread/WARN] [ProjRed|Core]: Failed to load PR Plugin: Colored Lights: Illumination lighting
+[20:24:37] [Server thread/INFO] [simplyjetpacks]: Starting Simply Jetpacks
+[20:24:37] [Server thread/INFO] [simplyjetpacks]: Successfully found CoFHLib
+[20:24:37] [Server thread/INFO] [simplyjetpacks]: Loading configuration files
+[20:24:37] [Server thread/INFO] [simplyjetpacks]: Registering items
+[20:24:38] [Server thread/INFO] [ThermalDynamics]: Loading Plugins...
+[20:24:38] [Server thread/INFO] [ThermalDynamics]: Finished Loading Plugins.
+[20:24:38] [Server thread/INFO] [TMechworks]: Loading configuration...
+[20:24:38] [Server thread/INFO] [TMechworks]: Done.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Beginning plugin registration: 14 candidates found.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Skipping over plugin RedLogic as its dependencies [RedLogic] were not found.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Skipping over plugin Mekanism as its dependencies [Mekanism] were not found.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Skipping over plugin magicalcrops as its dependencies [magicalcrops] were not found.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Skipping over plugin MFR as its dependencies [MineFactoryReloaded] were not found.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Attempting to create plugin IFluidHandler.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Successfully created plugin IFluidHandler.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Attempting to create plugin Extra Utilities.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Successfully created plugin Extra Utilities.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Skipping over plugin Steamcraft as its dependencies [Steamcraft] were not found.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Skipping over plugin Blood Magic as its dependencies [AWWayofTime] were not found.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Attempting to create plugin TE Augments.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Successfully created plugin TE Augments.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Attempting to create plugin Railcraft.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Successfully created plugin Railcraft.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Skipping over plugin Pam's Fruit as its dependencies [harvestcraft] were not found.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Attempting to create plugin Forestry.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Successfully created plugin Forestry.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Attempting to create plugin DSU.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Successfully created plugin DSU.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Skipping over plugin ResourcefulCrops as its dependencies [ResourcefulCrops] were not found.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Sorting plugins. Before: [IFluidHandler, Extra Utilities, TE Augments, Railcraft, Forestry, DSU]
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Sorting plugins. After:  [IFluidHandler, Extra Utilities, TE Augments, Railcraft, Forestry, DSU]
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Successfully loaded plugin IFluidHandler.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Successfully loaded plugin ExtraUtilities.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Successfully loaded plugin TE Augments.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Successfully loaded plugin Railcraft.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Successfully loaded plugin Forestry.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Successfully loaded plugin DSU.
+[20:24:38] [Server thread/INFO] [WAILA Plugins]: Completed plugin registration. 6 plugins registered.
+[20:24:38] [Server thread/INFO] [FML]: Applying holder lookups
+[20:24:38] [Server thread/INFO] [FML]: Holder lookups applied
+[20:24:38] [Server thread/INFO] [FML]: Injecting itemstacks
+[20:24:38] [Server thread/INFO] [FML]: Itemstack injection complete
+[20:24:38] [Server thread/INFO]: Loading properties
+[20:24:38] [Server thread/INFO]: Default game type: SURVIVAL
+[20:24:38] [Server thread/INFO]: Generating keypair
+[20:24:38] [Server thread/INFO]: Starting Minecraft server on 192.99.189.48:25565
+[20:24:38] [Server thread/INFO] [FML]: InvTweaks: net.minecraft.inventory.ContainerEnchantment
+[20:24:38] [Server thread/WARN] [FML]: Redundant call to BiomeDictionary.registerAllBiomes ignored
+[20:24:39] [Server thread/WARN] [ArsMagica2]: Unregistered spell part in skill trees: am2.spell.components.MeltArmor@5758084a
+[20:24:39] [Server thread/WARN] [ArsMagica2]: Unregistered spell part in skill trees: am2.spell.components.ScrambleSynapses@1d065cb1
+[20:24:39] [Server thread/WARN] [ArsMagica2]: Unregistered spell part in skill trees: am2.spell.components.Nauseate@3b2daa21
+[20:24:39] [Server thread/INFO] [ArsMagica2]: Initializing API Hooks...
+[20:24:39] [Server thread/INFO] [ArsMagica2]: Finished API Initialization
+[20:24:39] [Server thread/INFO] [bspkrsCore]: Initializing ModVersionChecker for mod bspkrsCore
+[20:24:39] [Server thread/INFO] [bspkrsCore]: Initializing ModVersionChecker for mod CrystalWing
+[20:24:39] [Server thread/INFO] [bspkrsCore]: Initializing ModVersionChecker for mod StartingInventory
+[20:24:39] [Server thread/INFO] [AE2:S]: Initialization ( started )
+[20:24:39] [Server thread/WARN] [AE2:S]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.WoodenGear:0
+[20:24:39] [Server thread/WARN] [AE2:S]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.IronNugget:0
+[20:24:39] [Server thread/WARN] [AE2:S]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.GoldDust:0
+[20:24:39] [Server thread/WARN] [AE2:S]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.IronDust:0
+[20:24:39] [Server thread/WARN] [AE2:S]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.Silicon:0
+[20:24:39] [Server thread/WARN] [AE2:S]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.Silicon:0
+[20:24:39] [Server thread/INFO] [AE2:S]: Recipes Loading: Inscribe: 8 loaded.
+[20:24:39] [Server thread/INFO] [AE2:S]: Recipes Loading: HCCrusher: 9 loaded.
+[20:24:39] [Server thread/INFO] [AE2:S]: Recipes Loading: Pulverizer: 9 loaded.
+[20:24:39] [Server thread/INFO] [AE2:S]: Recipes Loading: Shaped: 202 loaded.
+[20:24:39] [Server thread/INFO] [AE2:S]: Recipes Loading: Shapeless: 55 loaded.
+[20:24:39] [Server thread/INFO] [AE2:S]: Recipes Loading: Press: 3 loaded.
+[20:24:39] [Server thread/INFO] [AE2:S]: Recipes Loading: Grind: 4 loaded.
+[20:24:39] [Server thread/INFO] [AE2:S]: Recipes Loading: MekCrusher: 3 loaded.
+[20:24:39] [Server thread/INFO] [AE2:S]: Recipes Loading: Macerator: 8 loaded.
+[20:24:39] [Server thread/INFO] [AE2:S]: Recipes Loading: Smelt: 2 loaded.
+[20:24:39] [Server thread/INFO] [AE2:S]: Recipes Loading: GrindFZ: 7 loaded.
+[20:24:39] [Server thread/INFO] [AE2:S]: Recipes Loading: MekEnrichment: 2 loaded.
+[20:24:39] [Server thread/INFO] [AE2:S]: Recipes Loading: Crusher: 9 loaded.
+[20:24:39] [Server thread/INFO] [AE2:S]: Recipes Loading: OreRegistration: 14 loaded.
+[20:24:39] [Server thread/INFO] [AE2:S]: Initialization ( ended after 159ms )
+[20:24:39] [Server thread/INFO] [ArsMagica2]: Core: Altering definition of net.minecraft.network.play.server.S1EPacketRemoveEntityEffect,  (obfuscated)
+[20:24:39] [Server thread/INFO] [IC2.Recipe]: Successfully loaded 267 out of 267 recipes for shaped recipes
+[20:24:39] [Server thread/INFO] [IC2.Recipe]: Successfully loaded 76 out of 76 recipes for shapeless recipes
+[20:24:39] [Server thread/INFO] [IC2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[20:24:39] [Server thread/INFO] [IC2.Recipe]: Successfully loaded 17 out of 17 recipes for block cutter recipes
+[20:24:39] [Server thread/INFO] [IC2.Recipe]: Successfully loaded 48 out of 48 recipes for compressor recipes
+[20:24:39] [Server thread/INFO] [IC2.Recipe]: Successfully loaded 12 out of 12 recipes for extractor recipes
+[20:24:39] [Server thread/INFO] [IC2.Recipe]: Successfully loaded 64 out of 64 recipes for macerator recipes
+[20:24:39] [Server thread/INFO] [IC2.Recipe]: Successfully loaded 4 out of 4 recipes for metal former cutting recipes
+[20:24:39] [Server thread/INFO] [IC2.Recipe]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
+[20:24:39] [Server thread/INFO] [IC2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[20:24:39] [Server thread/INFO] [IC2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[20:24:39] [Server thread/INFO] [IC2.Recipe]: Successfully loaded 25 out of 25 recipes for thermal centrifuge recipes
+[20:24:40] [Server thread/INFO] [BuildCraft]: Loading compat module ThermalExpansion
+[20:24:40] [Server thread/INFO] [BuildCraft]: Loading compat module AgriCraft
+[20:24:40] [Server thread/INFO] [BuildCraft]: Loading compat module ForgeMultipart
+[20:24:40] [Server thread/INFO] [BuildCraft]: Loading compat module Waila
+[20:24:40] [Server thread/INFO] [BuildCraft]: Loading compat module Forestry
+[20:24:40] [Server thread/INFO] [BuildCraft]: Loading compat module CarpentersBlocks
+[20:24:40] [Server thread/INFO] [BuildCraft]: Loading compat module IronChest
+[20:24:40] [Server thread/INFO] [BuildCraft]: Loading compat module Railcraft
+[20:24:40] [Server thread/INFO] [Chisel 2]: Starting init...
+[20:24:40] [Server thread/INFO] [Chisel 2]: Loading recipes...
+[20:24:40] [Server thread/INFO] [Chisel 2]: Skipping feature amber as its required mod Thaumcraft was missing.
+[20:24:40] [Server thread/INFO] [Chisel 2]: Skipping feature arcane as its required mod Thaumcraft was missing.
+[20:24:40] [Server thread/INFO] [Chisel 2]: Skipping feature bloodRune as its required mod AWWayofTime was missing.
+[20:24:40] [Server thread/INFO] [Chisel 2]: Skipping feature bloodBlock as its required mod AWWayofTime was missing.
+[20:24:40] [Server thread/INFO] [Chisel 2]: Skipping feature tallow as its required mod Thaumcraft was missing.
+[20:24:40] [Server thread/INFO] [Chisel 2]: Skipping feature twilightForest as its required mod TwilightForest was missing.
+[20:24:40] [Server thread/INFO] [Chisel 2]: Skipping feature tfMazestone as its parent feature twilightForest was disabled.
+[20:24:40] [Server thread/INFO] [Chisel 2]: Skipping feature tfTowerstone as its parent feature twilightForest was disabled.
+[20:24:40] [Server thread/INFO] [Chisel 2]: Skipping feature tfUnderBrick as its parent feature twilightForest was disabled.
+[20:24:40] [Server thread/INFO] [Chisel 2]: Skipping feature thaumium as its required mod Thaumcraft was missing.
+[20:24:40] [Server thread/INFO] [Chisel 2]: 96 Feature's recipes loaded.
+[20:24:40] [Server thread/INFO] [Chisel 2]: Init finished.
+[20:24:40] [Server thread/INFO] [EnderCore]: [Handlers] Skipping class com.enderio.core.client.handlers.OreDictTooltipHandler, it is not loaded on this side.
+[20:24:40] [Server thread/INFO] [EnderCore]: [Handlers] Skipping class com.enderio.core.client.handlers.EnchantTooltipHandler, it is not loaded on this side.
+[20:24:40] [Server thread/INFO] [EnderCore]: [Handlers] Skipping class com.enderio.core.client.handlers.SpecialTooltipHandler, it is not loaded on this side.
+[20:24:40] [Server thread/INFO] [EnderCore]: [Handlers] Skipping class com.enderio.core.client.handlers.ClientHandler, it is not loaded on this side.
+[20:24:40] [Server thread/INFO] [EnderCore]: [Handlers] Skipping class com.enderio.core.client.gui.bettermodlist.EventHandlerGui, it is not loaded on this side.
+[20:24:40] [Server thread/INFO] [EnderCore]: [Handlers] Registering handler FireworkHandler to busses: [FORGE, FML]
+[20:24:40] [Server thread/INFO] [EnderCore]: [Handlers] Registering handler RightClickCropHandler to busses: [FORGE, FML]
+[20:24:40] [Server thread/INFO] [EnderCore]: [Handlers] Registering handler AutoSmeltHandler to busses: [FORGE, FML]
+[20:24:40] [Server thread/INFO] [EnderCore]: [Handlers] Registering handler Scheduler to busses: [FORGE, FML]
+[20:24:40] [Server thread/INFO] [EnderCore]: [Handlers] Registering handler XPBoostHandler to busses: [FORGE, FML]
+[20:24:40] [Server thread/INFO] [EnderCore]: Sending dummy event to all mods
+[20:24:40] [Server thread/INFO] [EnderCore]: Reloading ingame configs for modid: endercore
+[20:24:40] [Server thread/INFO] [EnderCore]: Reloading ingame configs for modid: wailaplugins
+[20:24:41] [Server thread/FATAL] [IC2NuclearControl]: Large Storage System? We can help to monitor that!
+[20:24:41] [Server thread/INFO] [Mantle]: Entering initialization phase.
+[20:24:41] [Server thread/INFO] [TConstruct]: Waila detected. Registering TConstruct tank blocks with Waila registry.
+[20:24:41] [Server thread/INFO] [TConstruct]: BuildCraft detected. Registering facades.
+[20:24:41] [Server thread/INFO] [TConstruct]: AE2 detected. Registering for Spatial IO.
+[20:24:41] [Server thread/INFO] [TConstruct]: IC2 detected. Preparing for shenanigans.
+[20:24:41] [Server thread/INFO] [TConstruct]: ForgeMultipart detected. Registering TConstruct decorative blocks with FMP.
+[20:24:41] [Server thread/INFO] [MagicBees]: Init completed
+[20:24:41] [Server thread/INFO] [MagicBees]: Thermal Expansion bees active
+[20:24:41] [Server thread/INFO] [More Planets]: Register packet
+[20:24:41] [Server thread/INFO] [NEIAddons]: Loading NEI Addons
+[20:24:41] [Server thread/INFO] [NEIAddons]: Loading Applied Energistics 2 Addon...
+[20:24:41] [Server thread/INFO] [NEIAddons]: Applied Energistics 2 Addon successfully loadded
+[20:24:41] [Server thread/INFO] [NEIAddons]: Loading Forestry Addon...
+[20:24:41] [Server thread/INFO] [NEIAddons]: Forestry Addon successfully loadded
+[20:24:41] [Server thread/INFO] [EnderCore]: Transforming Class [net.minecraft.world.WorldType], Method [func_76564_j]
+[20:24:41] [Server thread/INFO] [EnderCore]: Transforming net.minecraft.world.WorldType Finished.
+[20:24:42] [Server thread/INFO] [simplyjetpacks]: Registering handlers
+[20:24:42] [Server thread/INFO] [simplyjetpacks]: Registering network messages
+[20:24:42] [Server thread/INFO] [simplyjetpacks]: Stealing Thermal Expansion's items
+[20:24:42] [Server thread/INFO] [simplyjetpacks]: Stealing Thermal Dynamics's items
+[20:24:42] [Server thread/INFO] [simplyjetpacks]: Registering recipes
+[20:24:42] [Server thread/INFO] [simplyjetpacks]: Doing intermod communication
+[20:24:42] [Server thread/INFO] [simplyjetpacks]: Registering TE Fluid Transposer fill recipe
+[20:24:42] [Server thread/INFO] [simplyjetpacks]: Registering TE Fluid Transposer fill recipe
+[20:24:42] [Server thread/INFO] [simplyjetpacks]: Registering TE Induction Smelter recipe
+[20:24:42] [Server thread/INFO] [simplyjetpacks]: Registering TE Induction Smelter recipe
+[20:24:42] [Server thread/INFO] [simplyjetpacks]: Registering TE Induction Smelter recipe
+[20:24:42] [Server thread/INFO] [simplyjetpacks]: Registering TE Fluid Transposer fill recipe
+[20:24:42] [Server thread/INFO] [simplyjetpacks]: Registering TE Fluid Transposer fill recipe
+[20:24:42] [Server thread/INFO] [StorageDrawers]: Could not load integration module: com.jaquadro.minecraft.storagedrawers.integration.NotEnoughItems
+[20:24:42] [Server thread/INFO] [denseores]: Ph'nglui mglw'nafh, y'uln Dense Ores shugg ch'agl
+[20:24:42] [Server thread/INFO] [AE2:S]: Bad Class Registered: tconstruct.smeltery.logic.AdaptiveSmelteryLogic by TConstruct
+[20:24:42] [Server thread/INFO] [AE2:S]: Bad Class Registered: tconstruct.smeltery.logic.AqueductLogic by TConstruct
+[20:24:42] [Server thread/INFO] [AE2:S]: Bad Class Registered: tconstruct.smeltery.logic.TankAirLogic by TConstruct
+[20:24:42] [Server thread/INFO] [AE2:S]: Bad Class Registered: tconstruct.smeltery.logic.TowerFurnaceLogic by TConstruct
+[20:24:42] [Server thread/INFO] [Waila]: Receiving registration request from [ arsmagica2 ] for method am2.interop.WailaSupport.callbackRegister
+[20:24:42] [Server thread/INFO] [Waila]: Receiving registration request from [ AgriCraft ] for method com.InfinityRaider.AgriCraft.compatibility.waila.WailaRegistry.initWaila
+[20:24:42] [Server thread/INFO] [Waila]: Receiving registration request from [ appliedenergistics2 ] for method appeng.integration.modules.Waila.register
+[20:24:42] [Server thread/INFO] [Waila]: Receiving registration request from [ BuildCraft|Compat ] for method buildcraft.compat.waila.WailaCallback.callback
+[20:24:42] [Server thread/INFO] [Waila]: Receiving registration request from [ chisel ] for method com.cricketcraft.chisel.compat.WailaCompat.register
+[20:24:42] [Server thread/INFO] [Waila]: Receiving registration request from [ IC2NuclearControl ] for method shedar.mods.ic2.nuclearcontrol.crossmod.waila.CrossWaila.callbackRegister
+[20:24:42] [Server thread/INFO] [Waila]: Receiving registration request from [ TConstruct ] for method tconstruct.plugins.waila.WailaRegistrar.wailaCallback
+[20:24:42] [Server thread/INFO] [Waila]: Receiving registration request from [ StorageDrawers ] for method com.jaquadro.minecraft.storagedrawers.integration.Waila.registerProvider
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:aluminumblock is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:aluminumblock_1 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:aluminumblock_2 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:aluminumblock_3 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:aluminumblock_4 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:aluminumblock_5 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:factoryblock2 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:factoryblock2_1 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:factoryblock2_2 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:factoryblock2_3 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id minecraft:ice is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:limestone is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:limestone_1 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:limestone_2 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:limestone_3 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:limestone_4 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:limestone_5 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:limestone_6 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:limestone_7 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:limestone_8 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:limestone_9 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:limestone_10 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:limestone_11 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:limestone_12 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:limestone_13 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:limestone_14 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:limestone_15 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:marble is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:marble_1 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:marble_2 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:marble_3 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:marble_4 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:marble_5 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:marble_6 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:marble_7 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:marble_8 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:marble_9 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:marble_10 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:marble_11 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:marble_12 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:marble_13 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:marble_14 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:marble_15 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id minecraft:packed_ice is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:voidstoneRunic_1 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:voidstoneRunic_2 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:voidstoneRunic_3 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:voidstoneRunic_4 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:voidstoneRunic_5 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:voidstoneRunic_6 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:voidstoneRunic_7 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:voidstoneRunic_8 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:voidstoneRunic_9 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:voidstoneRunic_10 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:voidstoneRunic_11 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:voidstoneRunic_12 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:voidstoneRunic_13 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:voidstoneRunic_14 is already registered.
+[20:24:42] [Server thread/ERROR] [ForgeMicroblock]: Material with id chisel:voidstoneRunic_15 is already registered.
+[20:24:42] [Server thread/INFO] [FML]: Injecting itemstacks
+[20:24:42] [Server thread/INFO] [FML]: Itemstack injection complete
+[20:24:42] [Server thread/WARN] [ArsMagica2]: My potion, Water Breathing, at index 24 has been over-written by another potion, ic2.potion.radiation. You have a conflict in your configuration files.
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering item.agricraft:nuggetEmerald
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering item.agricraft:nuggetDiamond
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering item.agricraft:nuggetQuartz
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropAurigold
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedAurigold
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropFerranium
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedFerranium
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropDiamahlia
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedDiamahlia
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropLapender
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedLapender
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropEmeryllis
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedEmeryllis
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropRedstodendron
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedRedstodendron
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropNitorWart
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedNitorWart
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropQuartzanthemum
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedQuartzanthemum
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropCuprosia
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedCuprosia
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropPetinia
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedPetinia
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropPlombean
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedPlombean
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropSilverweed
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedSilverweed
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropJaslumine
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedJaslumine
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropNiccissus
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedNiccissus
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropPlatiolus
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedPlatiolus
+[20:24:43] [Server thread/INFO] [AgriCraft]: Registering soils to whitelist:
+[20:24:43] [Server thread/INFO] [AgriCraft]: Completed soil whitelist:
+[20:24:43] [Server thread/INFO] [AgriCraft]:  - minecraft:sand:0
+[20:24:43] [Server thread/INFO] [AgriCraft]:  - minecraft:mycelium:0
+[20:24:43] [Server thread/INFO] [AgriCraft]:  - minecraft:soul_sand:0
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropAum
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedAum
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropTarmaRoot
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedTarmaRoot
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropCerublossom
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedCerublossom
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropDesertNova
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedDesertNova
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering tile.agricraft:cropWakebloom
+[20:24:43] [Server thread/INFO] [AgriCraft]: registering item.agricraft:seedWakebloom
+[20:24:43] [Server thread/INFO] [AgriCraft]: Registered AgriCraft:seedCarrot:0 as a drop from grass (weight: 10)
+[20:24:43] [Server thread/INFO] [AgriCraft]: Registered AgriCraft:seedPotato:0 as a drop from grass (weight: 10)
+[20:24:43] [Server thread/INFO] [AE2:S]: Post Initialization ( started )
+[20:24:43] [Server thread/ERROR] [ForgeMultipart]: Trait already registered for net/minecraft/inventory/ISidedInventory
+[20:24:43] [Server thread/ERROR] [ForgeMultipart]: Trait already registered for net/minecraft/inventory/ISidedInventory
+[20:24:43] [Server thread/ERROR] [ForgeMultipart]: Trait already registered for net/minecraftforge/fluids/IFluidHandler
+[20:24:43] [Server thread/ERROR] [ForgeMultipart]: Trait already registered for net/minecraftforge/fluids/IFluidHandler
+[20:24:43] [Server thread/INFO] [AE2:S]: Layer: appeng/parts/layers/LayerISidedInventory_TileCableBus loaded successfully - 5294 bytes
+[20:24:43] [Server thread/INFO] [AE2:S]: Layer: appeng/parts/layers/LayerIFluidHandler_TileCableBus loaded successfully - 2442 bytes
+[20:24:43] [Server thread/INFO] [AE2:S]: Layer: appeng/parts/layers/LayerITileStorageMonitorable_TileCableBus loaded successfully - 1070 bytes
+[20:24:43] [Server thread/INFO] [AE2:S]: Layer: appeng/parts/layers/LayerIEnergySink_TileCableBus loaded successfully - 4248 bytes
+[20:24:43] [Server thread/INFO] [AE2:S]: Layer: appeng/parts/layers/LayerIEnergySource_TileCableBus loaded successfully - 4184 bytes
+[20:24:43] [Server thread/INFO] [AE2:S]: Layer: appeng/parts/layers/LayerIEnergyHandler_TileCableBus loaded successfully - 1801 bytes
+[20:24:43] [Server thread/INFO] [AE2:S]: Layer: appeng/parts/layers/LayerIPipeConnection_TileCableBus loaded successfully - 1352 bytes
+[20:24:43] [Server thread/INFO] [AE2:S]: Industrial Craft 2 - Integration Enable
+[20:24:43] [Server thread/INFO] [AE2:S]: Rotary Craft - Integration Disabled
+[20:24:43] [Server thread/INFO] [AE2:S]: Railcraft - Integration Enable
+[20:24:43] [Server thread/INFO] [AE2:S]: BuildCraft - Integration Enable
+[20:24:43] [Server thread/INFO] [AE2:S]: RedstoneFlux Power - Tiles - Integration Enable
+[20:24:43] [Server thread/INFO] [AE2:S]: RedstoneFlux Power - Items - Integration Enable
+[20:24:43] [Server thread/INFO] [AE2:S]: Mine Factory Reloaded - Integration Disabled
+[20:24:43] [Server thread/INFO] [AE2:S]: Deep Storage Unit - Integration Enable
+[20:24:43] [Server thread/INFO] [AE2:S]: Factorization - Integration Disabled
+[20:24:43] [Server thread/INFO] [AE2:S]: Forge MultiPart - Integration Enable
+[20:24:43] [Server thread/INFO] [AE2:S]: Rotatable Blocks - Integration Disabled
+[20:24:43] [Server thread/INFO] [AE2:S]: Colored Lights Core - Integration Disabled
+[20:24:43] [Server thread/INFO] [AE2:S]: Waila - Integration Enable
+[20:24:43] [Server thread/INFO] [AE2:S]: Mekanism - Integration Disabled
+[20:24:43] [Server thread/INFO] [AE2:S]: ImmibisMicroblocks - Integration Disabled
+[20:24:43] [Server thread/INFO] [AE2:S]: BetterStorage - Integration Disabled
+[20:24:43] [Server thread/INFO] [AE2:S]: Post Initialization ( ended after 174ms )
+[20:24:43] [Server thread/INFO] [BuildCraft]: BuildCraft's fake player: UUID = 77456a1f-b9f9-3f84-8863-ddef5b8e2209, name = '[BuildCraft]'!
+[20:24:44] [Server thread/INFO] [IC2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[20:24:44] [Server thread/INFO] [IC2.General]: IC2 version 2.2.827-experimental loaded.
+[20:24:44] [Server thread/INFO] [Forestry]: Skipping CraftGuide integration.
+[20:24:44] [Server thread/INFO] [ThermalExpansion]: There are no crafting files present in /home/techno/minecraft/1.7.10/SERVER/serverfiles/config/cofh/thermalexpansion/crafting.
+[20:24:44] [Server thread/WARN] [Railcraft]: Could not register CraftGuide plugins: CraftGuide missing.
+[20:24:44] [Server thread/ERROR] [FML]: Unable to lookup chisel:... is not an error, please do not treat it as such
+[20:24:44] [Server thread/WARN] [FML]: ****************************************
+[20:24:44] [Server thread/WARN] [FML]: * In case you didn't see the red above I suggest you read it - Cricket
+[20:24:44] [Server thread/WARN] [FML]: *  at com.cricketcraft.chisel.Chisel.postInit(Chisel.java:186)
+[20:24:44] [Server thread/WARN] [FML]: *  at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:24:44] [Server thread/WARN] [FML]: *  at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[20:24:44] [Server thread/WARN] [FML]: *  at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[20:24:44] [Server thread/WARN] [FML]: *  at java.lang.reflect.Method.invoke(Method.java:498)
+[20:24:44] [Server thread/WARN] [FML]: *  at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)...
+[20:24:44] [Server thread/WARN] [FML]: ****************************************
+[20:24:44] [Server thread/INFO] [FML]: InvTweaks: net.minecraft.inventory.ContainerWorkbench
+[20:24:44] [Server thread/INFO] [STDERR]: [net.blay09.mods.craftingtweaks.Compatiblity:registerSimpleProvider:247]: Could not register Crafting Tweaks addon for Avaritia - internal names have changed.
+[20:24:44] [Server thread/INFO] [STDERR]: [net.blay09.mods.craftingtweaks.Compatiblity:registerSimpleProvider:247]: Could not register Crafting Tweaks addon for BiblioCraft - internal names have changed.
+[20:24:44] [Server thread/INFO] [STDERR]: [net.blay09.mods.craftingtweaks.Compatiblity:registerSimpleProvider:247]: Could not register Crafting Tweaks addon for bluepower - internal names have changed.
+[20:24:44] [Server thread/INFO] [STDERR]: [net.blay09.mods.craftingtweaks.Compatiblity:registerSimpleProvider:247]: Could not register Crafting Tweaks addon for jacb - internal names have changed.
+[20:24:44] [Server thread/INFO] [STDERR]: [net.blay09.mods.craftingtweaks.Compatiblity:registerSimpleProvider:247]: Could not register Crafting Tweaks addon for ganyssurface - internal names have changed.
+[20:24:44] [Server thread/INFO] [STDERR]: [net.blay09.mods.craftingtweaks.Compatiblity:registerProvider:257]: Could not register Crafting Tweaks addon for ganyssurface - internal names have changed.
+[20:24:44] [Server thread/INFO] [STDERR]: [net.blay09.mods.craftingtweaks.Compatiblity:registerSimpleProvider:247]: Could not register Crafting Tweaks addon for Forestry - internal names have changed.
+[20:24:44] [Server thread/INFO] [STDERR]: [net.blay09.mods.craftingtweaks.Compatiblity:registerSimpleProvider:247]: Could not register Crafting Tweaks addon for DraconicEvolution - internal names have changed.
+[20:24:44] [Server thread/INFO] [STDERR]: [net.blay09.mods.craftingtweaks.Compatiblity:registerSimpleProvider:247]: Could not register Crafting Tweaks addon for Natura - internal names have changed.
+[20:24:44] [Server thread/INFO] [STDERR]: [net.blay09.mods.craftingtweaks.Compatiblity:registerSimpleProvider:247]: Could not register Crafting Tweaks addon for MineFactoryReloaded - internal names have changed.
+[20:24:44] [Server thread/INFO] [STDERR]: [net.blay09.mods.craftingtweaks.Compatiblity:registerSimpleProvider:247]: Could not register Crafting Tweaks addon for TwilightForest - internal names have changed.
+[20:24:44] [Server thread/INFO] [STDERR]: [net.blay09.mods.craftingtweaks.Compatiblity:registerSimpleProvider:247]: Could not register Crafting Tweaks addon for ThermalExpansion - internal names have changed.
+[20:24:44] [Server thread/INFO] [STDERR]: [net.blay09.mods.craftingtweaks.Compatiblity:registerSimpleProvider:247]: Could not register Crafting Tweaks addon for Thaumcraft - internal names have changed.
+[20:24:44] [Server thread/INFO] [STDERR]: [net.blay09.mods.craftingtweaks.Compatiblity:registerSimpleProvider:247]: Could not register Crafting Tweaks addon for RotaryCraft - internal names have changed.
+[20:24:44] [Server thread/INFO] [STDERR]: [net.blay09.mods.craftingtweaks.Compatiblity:registerProvider:257]: Could not register Crafting Tweaks addon for terrafirmacraft - internal names have changed.
+[20:24:44] [Server thread/INFO] [EnderCore]: Copying file endercore/config/cropConfig.json from jar
+[20:24:44] [Server thread/WARN] [endercore]: ItemUtil: Could not register Build Craft pipe handler. Machines will not be able to output to BC pipes.
+[20:24:44] [Server thread/INFO] [FML]: While registering space station recipe, found 1 type(s) of waferAdvanced
+[20:24:44] [Server thread/INFO] [FML]: While registering space station recipe, found 7 type(s) of ingotTin
+[20:24:44] [Server thread/FATAL] [IC2NuclearControl]: Another Energy System is Loaded. Adding Intergration!
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: java.lang.ClassNotFoundException: mekanism.api.energy.IStrictEnergyStorage
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.Class.forName0(Native Method)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.Class.forName(Class.java:348)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at shedar.mods.ic2.nuclearcontrol.crossmod.mekanism.CrossMekanism.<init>(CrossMekanism.java:16)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at shedar.mods.ic2.nuclearcontrol.crossmod.CrossModLoader.postinit(CrossModLoader.java:30)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at shedar.mods.ic2.nuclearcontrol.IC2NuclearControl.postInit(IC2NuclearControl.java:207)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:742)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:97)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:319)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:210)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+[20:24:44] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: Caused by: java.lang.NullPointerException
+[20:24:45] [Server thread/INFO] [Mantle]: Entering postinitialization phase.
+[20:24:45] [Server thread/INFO] [Mantle]: Loading Manual XML from: /assets/mantle/manuals/test.xml
+[20:24:45] [Server thread/WARN] [TConstruct]: Could not find itemResourcefrom thaumcraft.common.config.ConfigItems
+[20:24:45] [Server thread/WARN] [TConstruct]: Thaumcraft not detected.
+[20:24:45] [Server thread/INFO] [MagicBees]: Postinit completed
+[20:24:45] [Server thread/INFO] [minechem]: Minechem has loaded
+[20:24:45] [Server thread/WARN] [MachineMuse]: Couldn't get Chisel reference item
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: java.lang.NoClassDefFoundError: team/chisel/item/chisel/ItemChisel
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.machinemuse.powersuits.powermodule.tool.ChiselModule.<init>(ChiselModule.java:41)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.machinemuse.powersuits.common.ModCompatibility.registerModSpecificModules(ModCompatibility.java:153)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.machinemuse.powersuits.common.proxy.CommonProxy.postInit(CommonProxy.java:69)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.machinemuse.powersuits.common.ModularPowersuits.postInit(ModularPowersuits.java:66)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:742)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:97)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:319)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:210)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: Caused by: java.lang.ClassNotFoundException: team.chisel.item.chisel.ItemChisel
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	... 35 more
+[20:24:45] [Server thread/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:748]: Caused by: java.lang.NullPointerException
+[20:24:45] [Server thread/INFO] [FML]: While registering space station recipe, found 1 type(s) of waferAdvanced
+[20:24:45] [Server thread/INFO] [FML]: While registering space station recipe, found 1 type(s) of ingotIron
+[20:24:45] [Server thread/INFO] [FML]: While registering space station recipe, found 7 type(s) of ingotTin
+[20:24:45] [Server thread/INFO] [FML]: While registering space station recipe, found 1 type(s) of ingotDesh
+[20:24:45] [Server thread/INFO] [FML]: While registering space station recipe, found 1 type(s) of waferAdvanced
+[20:24:45] [Server thread/INFO] [FML]: While registering space station recipe, found 1 type(s) of ingotIron
+[20:24:45] [Server thread/INFO] [FML]: While registering space station recipe, found 7 type(s) of ingotTin
+[20:24:45] [Server thread/INFO] [denseores]: Dense Ores is fully loaded but sadly it cannot tell you the unlocalized name for dirt.
+[20:24:45] [Server thread/INFO] [IguanaTweaksTConstruct]: Sticks and stones may break my bones, but your pickaxes and axes will break no blocks.
+[20:24:45] [Server thread/INFO] [IguanaTweaksTConstruct]: Changed Cutting Strength for item.microblock:sawStone from 1 to 0
+[20:24:45] [Server thread/INFO] [IguanaTweaksTConstruct]: Changed Cutting Strength for item.microblock:sawIron from 2 to 3
+[20:24:45] [Server thread/INFO] [IguanaTweaksTConstruct]: Changed Cutting Strength for item.microblock:sawDiamond from 3 to 5
+[20:24:45] [Server thread/INFO] [FML]:   Unknown recipe class! forestry.core.recipes.ShapedRecipeCustom Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[20:24:45] [Server thread/INFO] [FML]:   Unknown recipe class! vswe.stevescarts.Helpers.ShapedRecipes2 Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[20:24:45] [Server thread/INFO] [FML]:   Unknown recipe class! com.panicnot42.warpbook.crafting.WarpPageShapeless Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[20:24:45] [Server thread/INFO] [FML]:   Unknown recipe class! com.panicnot42.warpbook.crafting.WarpBookShapeless Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[20:24:45] [Server thread/INFO] [FML]:   Unknown recipe class! de.eydamos.backpack.recipes.RecipeEnhanceBackpack Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[20:24:45] [Server thread/INFO] [FML]:   Unknown recipe class! de.eydamos.backpack.recipes.RecipeRecolorBackpack Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[20:24:45] [Server thread/INFO] [FML]:   Unknown recipe class! de.eydamos.backpack.recipes.RecipeIntelligentWorkbenchBackpack Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[20:24:45] [Server thread/INFO] [FML]:   Unknown recipe class! mrtjp.projectred.core.ShapelessOreNBTRecipe Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[20:24:45] [Server thread/INFO] [FML]:   Unknown recipe class! mrtjp.projectred.fabrication.FabricationRecipes$$anon$1 Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[20:24:45] [Server thread/INFO] [FML]:   Unknown recipe class! mrtjp.projectred.fabrication.FabricationRecipes$$anon$3 Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[20:24:45] [Server thread/INFO] [FML]:   Unknown recipe class! mrtjp.projectred.fabrication.FabricationRecipes$$anon$2 Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[20:24:45] [Server thread/INFO] [FML]:   Unknown recipe class! com.InfinityRaider.AgriCraft.items.crafting.RecipeJournal Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[20:24:45] [Server thread/INFO] [FML]:   Unknown recipe class! com.InfinityRaider.AgriCraft.items.crafting.RecipeShapelessCustomWood Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[20:24:45] [Server thread/INFO] [CoFHWorld]: CoFH Core found 2 World Generation files present in /home/techno/minecraft/1.7.10/SERVER/serverfiles/config/cofh/world/.
+[20:24:45] [Server thread/INFO] [CoFHWorld]: Reading world generation info from: /home/techno/minecraft/1.7.10/SERVER/serverfiles/config/cofh/world/ThermalFoundation-Ores.json:
+[20:24:45] [Server thread/INFO] [ThermalFoundation]: [Whitelist] Generating Default Whitelist.
+[20:24:45] [Server thread/INFO] [ThermalFoundation]: [Whitelist] Reading established Whitelist from file.
+[20:24:45] [Server thread/INFO] [ThermalFoundation]: Thermal Foundation: Thaumcraft Plugin Enabled.
+[20:24:45] [Server thread/INFO] [ThermalFoundation]: Thermal Foundation: Tinker's Construct Plugin Enabled.
+[20:24:45] [Server thread/INFO] [ThermalFoundation]: Thermal Foundation: Load Complete.
+[20:24:45] [Server thread/INFO] [ThermalExpansion]: Thermal Expansion: Forestry Plugin Enabled.
+[20:24:45] [Server thread/INFO] [ThermalExpansion]: Thermal Expansion: Thaumcraft Plugin Enabled.
+[20:24:45] [Server thread/INFO] [ThermalExpansion]: Thermal Expansion: Load Complete.
+[20:24:46] [Server thread/WARN] [Waila]: [Thaumcraft] Class not found. java.lang.ClassNotFoundException: thaumcraft.common.Thaumcraft
+[20:24:46] [Server thread/INFO] [Waila]: [EnderStorage] EnderStorage mod not found.
+[20:24:46] [Server thread/INFO] [Waila]: [GraveStone] GraveStone mod not found.
+[20:24:46] [Server thread/INFO] [Waila]: [TwilightForestMod] TwilightForestMod mod not found.
+[20:24:46] [Server thread/WARN] [Waila]: [Thermal Dynamics] Error while loading FluidDuct hooks.java.lang.ClassNotFoundException: cofh.thermaldynamics.ducts.fluid.TileFluidDuct
+[20:24:46] [Server thread/INFO] [Waila]: [Engineer Toolbox] Engineer Toolbox mod not found.
+[20:24:46] [Server thread/INFO] [Waila]: ProjectRed|Integration mod found.
+[20:24:46] [Server thread/INFO] [Waila]: ExtraUtilities mod found.
+[20:24:46] [Server thread/INFO] [Waila]: OpenBlocks mod found.
+[20:24:46] [Server thread/INFO] [Waila]: Railcraft mod found.
+[20:24:46] [Server thread/INFO] [Waila]: [PamHarvestCraft] PamHarvestCraft mod not found.
+[20:24:46] [Server thread/INFO] [Waila]: [MagicalCrops] MagicalCrops mod not found.
+[20:24:46] [Server thread/INFO] [Waila]: [Statues] Statues mod not found.
+[20:24:46] [Server thread/INFO] [Waila]: [Agriculture] Agriculture mod not found.
+[20:24:46] [Server thread/INFO] [Waila]: Forge Multipart found and dedicated handler registered
+[20:24:46] [Server thread/INFO] [Waila]: Trying to reflect am2.interop.WailaSupport callbackRegister
+[20:24:46] [Server thread/WARN] [Waila]: Could not find class am2.interop.WailaSupport
+[20:24:46] [Server thread/INFO] [Waila]: Trying to reflect com.InfinityRaider.AgriCraft.compatibility.waila.WailaRegistry initWaila
+[20:24:46] [Server thread/INFO] [Waila]: Success in registering AgriCraft
+[20:24:46] [Server thread/INFO] [Waila]: Trying to reflect appeng.integration.modules.Waila register
+[20:24:46] [Server thread/INFO] [Waila]: Success in registering appliedenergistics2
+[20:24:46] [Server thread/INFO] [Waila]: Trying to reflect buildcraft.compat.waila.WailaCallback callback
+[20:24:46] [Server thread/INFO] [Waila]: Success in registering BuildCraft|Compat
+[20:24:46] [Server thread/INFO] [Waila]: Trying to reflect com.cricketcraft.chisel.compat.WailaCompat register
+[20:24:46] [Server thread/INFO] [Waila]: Success in registering chisel
+[20:24:46] [Server thread/INFO] [Waila]: Trying to reflect shedar.mods.ic2.nuclearcontrol.crossmod.waila.CrossWaila callbackRegister
+[20:24:46] [Server thread/INFO] [Waila]: Success in registering IC2NuclearControl
+[20:24:46] [Server thread/INFO] [Waila]: Trying to reflect tconstruct.plugins.waila.WailaRegistrar wailaCallback
+[20:24:46] [Server thread/INFO] [TConstruct]: [Waila-Compat] Got registrar: mcp.mobius.waila.api.impl.ModuleRegistrar@35039a99
+[20:24:46] [Server thread/INFO] [Waila]: Success in registering TConstruct
+[20:24:46] [Server thread/INFO] [Waila]: Trying to reflect com.jaquadro.minecraft.storagedrawers.integration.Waila registerProvider
+[20:24:46] [Server thread/INFO] [Waila]: Success in registering StorageDrawers
+[20:24:46] [Server thread/INFO] [minechem]: Registering other Mod Recipes...
+[20:24:46] [Server thread/INFO] [minechem]: 173ms spent registering Recipes
+[20:24:46] [Server thread/INFO] [NetherOres]: Load Complete.
+[20:24:46] [Server thread/INFO] [ThermalDynamics]: Thaumcraft Plugin Enabled.
+[20:24:46] [Server thread/INFO] [ThermalDynamics]: Thermal Dynamics: Load Complete.
+[20:24:46] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 99 mods
+[20:24:46] [Server thread/WARN]: Failed to load user banlist: 
+java.io.FileNotFoundException: banned-players.json (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_131]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_131]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_131]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[guava-17.0.jar:?]
+	at net.minecraft.server.management.UserList.func_152679_g(SourceFile:124) ~[om.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.func_152620_y(SourceFile:99) [ls.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(SourceFile:25) [ls.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:211) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[20:24:46] [Server thread/WARN]: Failed to load ip banlist: 
+java.io.FileNotFoundException: banned-ips.json (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_131]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_131]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_131]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[guava-17.0.jar:?]
+	at net.minecraft.server.management.UserList.func_152679_g(SourceFile:124) ~[om.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.func_152619_x(SourceFile:91) [ls.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(SourceFile:27) [ls.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:211) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[20:24:46] [Server thread/WARN]: Failed to load operators list: 
+java.io.FileNotFoundException: ops.json (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_131]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_131]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_131]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[guava-17.0.jar:?]
+	at net.minecraft.server.management.UserList.func_152679_g(SourceFile:124) ~[om.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.func_72417_t(SourceFile:107) [ls.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(SourceFile:29) [ls.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:211) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[20:24:46] [Server thread/WARN]: Failed to load white-list: 
+java.io.FileNotFoundException: whitelist.json (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_131]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_131]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_131]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[guava-17.0.jar:?]
+	at net.minecraft.server.management.UserList.func_152679_g(SourceFile:124) ~[om.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.func_72418_v(SourceFile:123) [ls.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(SourceFile:30) [ls.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:211) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[20:24:46] [Server thread/INFO] [AgriCraft]: Registered Mutations:
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedSugarcane:0 = minecraft:wheat_seeds:0 + AgriCraft:seedCarrot:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedCactus:0 = AgriCraft:seedSugarcane:0 + AgriCraft:seedPoppy:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - minecraft:pumpkin_seeds:0 = AgriCraft:seedPotato:0 + AgriCraft:seedCarrot:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - minecraft:melon_seeds:0 = AgriCraft:seedCarrot:0 + minecraft:pumpkin_seeds:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedPoppy:0 = AgriCraft:seedSugarcane:0 + minecraft:pumpkin_seeds:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedDandelion:0 = AgriCraft:seedSugarcane:0 + minecraft:melon_seeds:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedOrchid:0 = AgriCraft:seedPoppy:0 + AgriCraft:seedDandelion:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedAllium:0 = AgriCraft:seedPoppy:0 + AgriCraft:seedOrchid:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedTulipRed:0 = AgriCraft:seedPoppy:0 + AgriCraft:seedAllium:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedTulipOrange:0 = AgriCraft:seedDaisy:0 + AgriCraft:seedOrchid:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedTulipWhite:0 = AgriCraft:seedDaisy:0 + AgriCraft:seedDandelion:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedTulipPink:0 = AgriCraft:seedAllium:0 + AgriCraft:seedDandelion:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedDaisy:0 = AgriCraft:seedDandelion:0 + AgriCraft:seedOrchid:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedShroomRed:0 = minecraft:nether_wart:0 + AgriCraft:seedPoppy:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedShroomBrown:0 = minecraft:nether_wart:0 + AgriCraft:seedPotato:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedRedstodendron:0 = AgriCraft:seedTulipRed:0 + AgriCraft:seedDaisy:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedLapender:0 = AgriCraft:seedTulipPink:0 + AgriCraft:seedOrchid:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedFerranium:0 = AgriCraft:seedLapender:0 + AgriCraft:seedTulipWhite:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedAurigold:0 = AgriCraft:seedRedstodendron:0 + AgriCraft:seedTulipOrange:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedDiamahlia:0 = AgriCraft:seedAurigold:0 + AgriCraft:seedLapender:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedEmeryllis:0 = AgriCraft:seedFerranium:0 + AgriCraft:seedRedstodendron:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedNitorWart:0 = minecraft:nether_wart:0 + AgriCraft:seedTulipOrange:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedQuartzanthemum:0 = AgriCraft:seedNitorWart:0 + AgriCraft:seedLapender:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedCuprosia:0 = AgriCraft:seedRedstodendron:0 + AgriCraft:seedTulipRed:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedPetinia:0 = AgriCraft:seedLapender:0 + AgriCraft:seedDaisy:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedPlombean:0 = AgriCraft:seedFerranium:0 + AgriCraft:seedPotato:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedSilverweed:0 = AgriCraft:seedAurigold:0 + AgriCraft:seedAllium:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedJaslumine:0 = AgriCraft:seedFerranium:0 + minecraft:wheat_seeds:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedNiccissus:0 = AgriCraft:seedAurigold:0 + AgriCraft:seedDandelion:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedPlatiolus:0 = AgriCraft:seedDiamahlia:0 + AgriCraft:seedFerranium:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedDesertNova:0 = AgriCraft:seedCactus:0 + AgriCraft:seedTulipRed:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedCerublossom:0 = AgriCraft:seedDesertNova:0 + AgriCraft:seedOrchid:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedAum:0 = AgriCraft:seedCerublossom:0 + AgriCraft:seedTulipWhite:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedTarmaRoot:0 = AgriCraft:seedDesertNova:0 + AgriCraft:seedShroomBrown:0
+[20:24:46] [Server thread/INFO] [AgriCraft]:  - AgriCraft:seedWakebloom:0 = AgriCraft:seedAum:0 + AgriCraft:seedCerublossom:0
+[20:24:46] [Server thread/INFO]: Preparing level "world"
+[20:24:46] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@2d432974)
+[20:24:46] [Server thread/INFO] [FML]: Loading dimension -100 (world) (net.minecraft.server.dedicated.DedicatedServer@2d432974)
+[20:24:46] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@2d432974)
+[20:24:46] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2d432974)
+[20:24:47] [Server thread/INFO] [FML]: Loading dimension -112 (world) (net.minecraft.server.dedicated.DedicatedServer@2d432974)
+[20:24:47] [Server thread/INFO]: Preparing start region for level 0
+[20:24:48] [Server thread/INFO]: Preparing spawn area: 10%
+[20:24:49] [Server thread/INFO]: Preparing spawn area: 23%
+[20:24:50] [Server thread/INFO]: Preparing spawn area: 30%
+[20:24:51] [Server thread/INFO]: Preparing spawn area: 44%
+[20:24:52] [Server thread/INFO]: Preparing spawn area: 56%
+[20:24:54] [Server thread/INFO]: Preparing spawn area: 63%
+[20:24:55] [Server thread/INFO]: Preparing spawn area: 82%
+[20:24:56] [Server thread/INFO]: Preparing spawn area: 97%
+[20:24:57] [Server thread/INFO]: Done (10.639s)! For help, type "help" or "?"
+[20:24:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -30
+[20:24:57] [Server thread/INFO] [FML]: Loading dimension -30 (world) (net.minecraft.server.dedicated.DedicatedServer@2d432974)
+[20:24:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -2554
+[20:24:57] [Server thread/INFO] [FML]: Loading dimension -2554 (world) (net.minecraft.server.dedicated.DedicatedServer@2d432974)
+[20:24:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -2542
+[20:24:57] [Server thread/INFO] [FML]: Loading dimension -2542 (world) (net.minecraft.server.dedicated.DedicatedServer@2d432974)
+[20:24:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -2546
+[20:24:57] [Server thread/INFO] [FML]: Loading dimension -2546 (world) (net.minecraft.server.dedicated.DedicatedServer@2d432974)
+[20:24:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -5000
+[20:24:57] [Server thread/INFO] [FML]: Loading dimension -5000 (world) (net.minecraft.server.dedicated.DedicatedServer@2d432974)
+[20:24:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -2547
+[20:24:57] [Server thread/INFO] [FML]: Loading dimension -2547 (world) (net.minecraft.server.dedicated.DedicatedServer@2d432974)
+[20:24:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -29
+[20:24:57] [Server thread/INFO] [FML]: Loading dimension -29 (world) (net.minecraft.server.dedicated.DedicatedServer@2d432974)
+[20:24:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -2549
+[20:24:57] [Server thread/INFO] [FML]: Loading dimension -2549 (world) (net.minecraft.server.dedicated.DedicatedServer@2d432974)
+[20:24:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -2545
+[20:24:57] [Server thread/INFO] [FML]: Loading dimension -2545 (world) (net.minecraft.server.dedicated.DedicatedServer@2d432974)
+[20:24:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -2551
+[20:24:57] [Server thread/INFO] [FML]: Loading dimension -2551 (world) (net.minecraft.server.dedicated.DedicatedServer@2d432974)
+[20:24:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -2544
+[20:24:57] [Server thread/INFO] [FML]: Loading dimension -2544 (world) (net.minecraft.server.dedicated.DedicatedServer@2d432974)
+[20:24:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -2548
+[20:24:57] [Server thread/INFO] [FML]: Loading dimension -2548 (world) (net.minecraft.server.dedicated.DedicatedServer@2d432974)
+[20:24:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -2550
+[20:24:57] [Server thread/INFO] [FML]: Loading dimension -2550 (world) (net.minecraft.server.dedicated.DedicatedServer@2d432974)
+[20:24:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -2552
+[20:24:57] [Server thread/INFO] [FML]: Loading dimension -2552 (world) (net.minecraft.server.dedicated.DedicatedServer@2d432974)
+[20:24:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -2543
+[20:24:57] [Server thread/INFO] [FML]: Loading dimension -2543 (world) (net.minecraft.server.dedicated.DedicatedServer@2d432974)
+[20:24:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -28
+[20:24:57] [Server thread/INFO] [FML]: Loading dimension -28 (world) (net.minecraft.server.dedicated.DedicatedServer@2d432974)
+[20:24:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -2553
+[20:24:57] [Server thread/INFO] [FML]: Loading dimension -2553 (world) (net.minecraft.server.dedicated.DedicatedServer@2d432974)
+[20:24:58] [Server thread/INFO] [ingameconfigmanager]: Loaded crafting table-crafting table disable branch containing 7433 segments of 0 config entries!
+[20:24:58] [Server thread/INFO] [ingameconfigmanager]: Loaded crafting table-crafting table add branch containing 1 segments of 0 config entries!
+[20:24:58] [Server thread/INFO] [ingameconfigmanager]: Loaded crafting table-advanced workbench add branch containing 1 segments of 0 config entries!
+[20:24:58] [Server thread/INFO] [ingameconfigmanager]: Loaded furnace-furnace disable branch containing 325 segments of 0 config entries!
+[20:24:58] [Server thread/INFO] [ingameconfigmanager]: Loaded furnace-furnace add branch containing 1 segments of 0 config entries!
+[20:24:58] [Server thread/INFO] [ingameconfigmanager]: Loaded ingameconfigmanager-general branch containing 2 segments of 0 config entries!
+[20:24:58] [Thread-13/ERROR] [Galacticraft]: Galacticraft update check failed! Trying again in 15 seconds
+[20:25:13] [Thread-13/ERROR] [Galacticraft]: Galacticraft update check failed! Trying again in 15 seconds
+say test
+[20:25:18] [Server thread/INFO]: [Server] test
+help
+[20:25:20] [Server thread/INFO]: An unknown error occurred while attempting to perform this command
+[20:25:20] [Server thread/ERROR]: Couldn't process command: 'help'
+java.lang.IllegalArgumentException: Comparison method violates its general contract!
+	at java.util.ComparableTimSort.mergeLo(ComparableTimSort.java:744) ~[?:1.8.0_131]
+	at java.util.ComparableTimSort.mergeAt(ComparableTimSort.java:481) ~[?:1.8.0_131]
+	at java.util.ComparableTimSort.mergeCollapse(ComparableTimSort.java:406) ~[?:1.8.0_131]
+	at java.util.ComparableTimSort.sort(ComparableTimSort.java:213) ~[?:1.8.0_131]
+	at java.util.Arrays.sort(Arrays.java:1312) ~[?:1.8.0_131]
+	at java.util.Arrays.sort(Arrays.java:1506) ~[?:1.8.0_131]
+	at java.util.ArrayList.sort(ArrayList.java:1454) ~[?:1.8.0_131]
+	at java.util.Collections.sort(Collections.java:141) ~[?:1.8.0_131]
+	at net.minecraft.command.CommandHelp.func_71534_d(SourceFile:84) ~[au.class:?]
+	at net.minecraft.command.CommandHelp.func_71515_b(SourceFile:38) ~[au.class:?]
+	at net.minecraft.command.CommandHandler.func_71556_a(CommandHandler.java:94) [z.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71333_ah(DedicatedServer.java:370) [lt.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:335) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547) [MinecraftServer.class:?]
+	at fastcraft.at.a(F:978) [fastcraft-1.23.jar:?]
+	at fastcraft.H.aq(F:36) [fastcraft-1.23.jar:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:396) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+help 2
+[20:25:25] [Server thread/INFO]: An unknown error occurred while attempting to perform this command
+[20:25:25] [Server thread/ERROR]: Couldn't process command: 'help 2'
+java.lang.IllegalArgumentException: Comparison method violates its general contract!
+	at java.util.ComparableTimSort.mergeLo(ComparableTimSort.java:744) ~[?:1.8.0_131]
+	at java.util.ComparableTimSort.mergeAt(ComparableTimSort.java:481) ~[?:1.8.0_131]
+	at java.util.ComparableTimSort.mergeCollapse(ComparableTimSort.java:406) ~[?:1.8.0_131]
+	at java.util.ComparableTimSort.sort(ComparableTimSort.java:213) ~[?:1.8.0_131]
+	at java.util.Arrays.sort(Arrays.java:1312) ~[?:1.8.0_131]
+	at java.util.Arrays.sort(Arrays.java:1506) ~[?:1.8.0_131]
+	at java.util.ArrayList.sort(ArrayList.java:1454) ~[?:1.8.0_131]
+	at java.util.Collections.sort(Collections.java:141) ~[?:1.8.0_131]
+	at net.minecraft.command.CommandHelp.func_71534_d(SourceFile:84) ~[au.class:?]
+	at net.minecraft.command.CommandHelp.func_71515_b(SourceFile:38) ~[au.class:?]
+	at net.minecraft.command.CommandHandler.func_71556_a(CommandHandler.java:94) [z.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71333_ah(DedicatedServer.java:370) [lt.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:335) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547) [MinecraftServer.class:?]
+	at fastcraft.at.a(F:978) [fastcraft-1.23.jar:?]
+	at fastcraft.H.aq(F:36) [fastcraft-1.23.jar:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:396) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+help 
+[20:25:26] [Server thread/INFO]: An unknown error occurred while attempting to perform this command
+[20:25:26] [Server thread/ERROR]: Couldn't process command: 'help'
+java.lang.IllegalArgumentException: Comparison method violates its general contract!
+	at java.util.ComparableTimSort.mergeLo(ComparableTimSort.java:744) ~[?:1.8.0_131]
+	at java.util.ComparableTimSort.mergeAt(ComparableTimSort.java:481) ~[?:1.8.0_131]
+	at java.util.ComparableTimSort.mergeCollapse(ComparableTimSort.java:406) ~[?:1.8.0_131]
+	at java.util.ComparableTimSort.sort(ComparableTimSort.java:213) ~[?:1.8.0_131]
+	at java.util.Arrays.sort(Arrays.java:1312) ~[?:1.8.0_131]
+	at java.util.Arrays.sort(Arrays.java:1506) ~[?:1.8.0_131]
+	at java.util.ArrayList.sort(ArrayList.java:1454) ~[?:1.8.0_131]
+	at java.util.Collections.sort(Collections.java:141) ~[?:1.8.0_131]
+	at net.minecraft.command.CommandHelp.func_71534_d(SourceFile:84) ~[au.class:?]
+	at net.minecraft.command.CommandHelp.func_71515_b(SourceFile:38) ~[au.class:?]
+	at net.minecraft.command.CommandHandler.func_71556_a(CommandHandler.java:94) [z.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71333_ah(DedicatedServer.java:370) [lt.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:335) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547) [MinecraftServer.class:?]
+	at fastcraft.at.a(F:978) [fastcraft-1.23.jar:?]
+	at fastcraft.H.aq(F:36) [fastcraft-1.23.jar:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:396) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[20:25:28] [Thread-13/ERROR] [Galacticraft]: Galacticraft update check failed! Trying again in 15 seconds
+^C-tmc-server[20:57:43] [Server Shutdown Thread/INFO]: Stopping server

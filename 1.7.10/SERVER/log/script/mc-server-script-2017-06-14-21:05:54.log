@@ -1,0 +1,11 @@
+Jun 14 20:57:49 mc-server: START: PASS: Started A Minecraft Server
+Jun 14 20:57:49 mc-server: START: PASS: command_start.sh exiting with code: 0
+Jun 14 20:57:54 mc-server: CONSOLE: PASS: Console accessed
+Jun 14 21:01:28 mc-server: CONSOLE: PASS: Console closed
+Jun 14 21:01:28 mc-server: CONSOLE: PASS: command_console.sh exiting with code: 0
+Jun 14 21:01:39 mc-server: STOP: INFO: Graceful: CTRL+c
+Jun 14 21:01:41 mc-server: STOP: PASS: Graceful: CTRL+c: OK: 3 seconds
+Jun 14 21:01:42 mc-server: STOP: INFO: tmux kill-session: §cT§6e§ec§2h§9n§do§5'§cs §6C§eo§am§9m§du§5n§ci§6t§ey §aM§9i§dn§5e§cc§6r§ea§af§9t §dS§5e§ar§6v§ee§ar§9!
+Jun 14 21:01:43 mc-server: STOP: PASS: Stopped §cT§6e§ec§2h§9n§do§5'§cs §6C§eo§am§9m§du§5n§ci§6t§ey §aM§9i§dn§5e§cc§6r§ea§af§9t §dS§5e§ar§6v§ee§ar§9!
+Jun 14 21:01:43 mc-server: STOP: PASS: command_stop.sh exiting with code: 0
+Jun 14 21:05:56 mc-server: START: INFO: Rotating log files

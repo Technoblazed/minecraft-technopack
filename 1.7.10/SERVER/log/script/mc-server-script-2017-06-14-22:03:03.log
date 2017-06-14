@@ -1,0 +1,10 @@
+Jun 14 21:19:26 mc-server: START: PASS: Started §cT§6e§ec§2h§9n§do§5'§cs §6C§eo§am§9m§du§5n§ci§6t§ey §aM§9i§dn§5e§cc§6r§ea§af§9t §dS§5e§ar§6v§ee§ar§9\!
+Jun 14 21:19:26 mc-server: BACKUP: PASS: command_backup.sh exiting with code: 0
+Jun 14 21:19:42 mc-server: CONSOLE: PASS: Console accessed
+Jun 14 21:20:06 mc-server: CONSOLE: PASS: Console closed
+Jun 14 21:20:06 mc-server: CONSOLE: PASS: command_console.sh exiting with code: 0
+Jun 14 22:03:04 mc-server: STOP: INFO: Graceful: CTRL+c
+Jun 14 22:03:05 mc-server: STOP: PASS: Graceful: CTRL+c: OK: 2 seconds
+Jun 14 22:03:06 mc-server: STOP: INFO: tmux kill-session: §cT§6e§ec§2h§9n§do§5'§cs §6C§eo§am§9m§du§5n§ci§6t§ey §aM§9i§dn§5e§cc§6r§ea§af§9t §dS§5e§ar§6v§ee§ar§9\!
+Jun 14 22:03:08 mc-server: STOP: PASS: Stopped §cT§6e§ec§2h§9n§do§5'§cs §6C§eo§am§9m§du§5n§ci§6t§ey §aM§9i§dn§5e§cc§6r§ea§af§9t §dS§5e§ar§6v§ee§ar§9\!
+Jun 14 22:03:09 mc-server: START: INFO: Rotating log files
