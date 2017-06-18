@@ -17,7 +17,7 @@ Discord: https://discord.gg/QJYMpQD
 ## Installation
 
 0. Download the modpack from [here](https://github.com/Technoblazed/minecraft-technopack/archive/master.zip), extract the files to another location, not inside the MultiMC directory.
-1. Download MultiMC from [here](https://multimc.org/#Download & Install) and extract to a folder on your desktop.
+1. Download MultiMC from [here](https://multimc.org/) and extract to a folder on your desktop.
 2. Navigate to the folder, and run the `MultiMC.exe` file.
 3. For installation steps, do the following:
   1. Select your language from the available list. Click Next.
