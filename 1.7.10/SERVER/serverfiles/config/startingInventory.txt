@@ -1,3 +1,0 @@
-minecraft:stone_sword,1,0
-minecraft:apple,16,0
-minecraft:torch,16,0
